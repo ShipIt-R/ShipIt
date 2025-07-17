@@ -149,10 +149,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22a1058f4705d5a4981cb629dcfae83d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 100
-  circle_size: 10
-  degree_circle_start: 90
-  degree_circle_end: 0
+  speed: 5
+  moving: 1
 --- !u!212 &285412880
 SpriteRenderer:
   m_ObjectHideFlags: 0
