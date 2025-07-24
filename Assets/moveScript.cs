@@ -6,9 +6,9 @@ using UnityEngine;
 public class moveScript : MonoBehaviour
 {
     // Liste mit den Koordinaten, die das Objekt der Reihe nach abläuft.
-    public int[][] path = new int[][] 
+    public float[][] path = new float[][] 
     {
-        new int[] { 0, 0 }, new int[] { 10, 0 }, new int[] { 10, -10 }, new int[] { 0, -10 }, new int[] { -10, -10 }, new int[] {-20, -10}, new int[] {-30, -10}, new int[] { -30, 0 }, new int[] {-30, 10}
+        new float[] { 1.53f, 0.72f }, new float[] { -1.53f, 0.72f }, new float[] { -1.53f, 0.24f }, new float[] { 1.04f, 0.24f }, new float[] { 1.04f, -0.24f }, new float[] {-1.53f, -0.24f}, new float[] {-1.53f, -0.72f}, new float[] { 1.53f, -0.72f }, new float[] { 1.53f, 0.72f }
     };
 
     // Veränderbare Werte
@@ -56,7 +56,7 @@ public class moveScript : MonoBehaviour
     }
 
     // Verbindungsvektor von 2 Koordinaten berechnen
-    private Vector3 PathVector3(int[] coordbase, int[] coordend)
+    private Vector3 PathVector3(float[] coordbase, float[] coordend)
     {
         return new Vector3(coordend[0] - coordbase[0], coordend[1] - coordbase[1], 0);
     }
@@ -67,9 +67,10 @@ public class moveScript : MonoBehaviour
         // Diagonale Vektoren sollten nicht vorkommen, deshalb funktioniert meine berechnung mit diagonalen Vektoren nicht. Ich stelle hier sicher das es keine Diagonalen Vektoren sind.
         if (!((walkvec.x == 0 | walkvec.y == 0) & (destvec.x == 0 | destvec.y == 0)))
         {
+            // Ich lasse einen Fehler geben, wenn ein Diagonaler Vektor berechnet wird
             throw new ArithmeticException("Der Lauf- oder Zielvektor ist diagonal!" + Convert.ToString(walkvec) + Convert.ToString(destvec));
         }
-
+        // Hier rechne ich noch aus, wie viel ich über das Ziel hinausschiesse. Da einer der Vektorgrössen immer 0 ist, bekomme ich immer die Länge.
         return Mathf.Abs(walkvec.x + walkvec.y) - Mathf.Abs(destvec.x + destvec.y);
     }
 }
