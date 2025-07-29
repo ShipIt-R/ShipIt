@@ -252,6 +252,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   floortilemap: {fileID: 331154951}
   pathTile: {fileID: 11400000, guid: 30ed78137517409408cd006625be987d, type: 2}
+  grassTile: {fileID: 11400000, guid: 75b3273c6a57fde4889929d9a8f06593, type: 2}
   MAPHEIGHT: 20
   MAPWIDTH: 36
   leftisland: 5

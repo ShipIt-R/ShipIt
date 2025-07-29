@@ -11,11 +11,13 @@ public class TileGenerator : MonoBehaviour
     public enum Grid
     {
         PATH,
+        GRASS,
         EMPTY
     }
     public Grid[,] gridHandler;
     public Tilemap floortilemap;
     public RuleTile pathTile;
+    public RuleTile grassTile;
     public int MAPHEIGHT;
     public int MAPWIDTH;
     public int leftisland = 4;
@@ -26,6 +28,7 @@ public class TileGenerator : MonoBehaviour
     public float curve_Change = 0.2f;
     public float curve_change_increase = 0.1f;
     public List<WalkerObject> Walkers;
+    public List<WalkerObject> toRemove;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -36,12 +39,24 @@ public class TileGenerator : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        foreach (WalkerObject walker in Walkers)
+        if (Walkers.Count != 0)
         {
-            if (walker.moving)
+            foreach (WalkerObject walker in Walkers)
             {
-                walkerwalk(walker);
+                if (walker.moving)
+                {
+                    walkerwalk(walker);
+                }
             }
+        }
+
+        if (toRemove.Count != 0)
+        {
+            foreach (WalkerObject walker2 in toRemove)
+            {
+                Walkers.Remove(walker2);
+            }
+            toRemove.Clear();
         }
     }
 
@@ -49,13 +64,19 @@ public class TileGenerator : MonoBehaviour
     void initializeGrid()
     {
         Walkers = new List<WalkerObject>();
+        toRemove = new List<WalkerObject>();
         gridHandler = new Grid[MAPWIDTH, MAPHEIGHT];
 
         for (int x = 0; x < gridHandler.GetLength(0); x++)
         {
             for (int y = 0; y < gridHandler.GetLength(1); y++)
             {
-                gridHandler[x, y] = Grid.EMPTY;
+                if (x > MAPWIDTH - rightisland || (x < leftisland - 1 && y < leftisland - 1))
+                {
+                    gridHandler[x, y] = Grid.PATH;
+                } else {
+                    gridHandler[x, y] = Grid.EMPTY;
+                }
             }
         }
         // walker = new Vector2Int((MAPWIDTH - rightisland), 17);
@@ -91,6 +112,8 @@ public class TileGenerator : MonoBehaviour
             if ((walker.position + should_direction).x < leftisland && (walker.position + should_direction).y < leftisland)
             {
                 walker.moving = false;
+                toRemove.Add(walker);
+                if (Walkers.Count - toRemove.Count == 0) { setgrass(); }
             }
         } while (checkOutsideBox(walker.position + should_direction));
         walker.direction = should_direction;
@@ -143,6 +166,21 @@ public class TileGenerator : MonoBehaviour
                 {
                     floortilemap.SetTile(new Vector3Int(walker.position.x + x - MAPWIDTH / 2, walker.position.y + y - MAPHEIGHT / 2, 0), pathTile);
                     gridHandler[walker.position.x + x, walker.position.y + y] = Grid.PATH;
+                }
+            }
+        }
+    }
+
+    private void setgrass()
+    {
+        for (int x = 0; x < gridHandler.GetLength(0); x++)
+        {
+            for (int y = 0; y < gridHandler.GetLength(1); y++)
+            {
+                if (gridHandler[x, y].Equals(Grid.EMPTY))
+                {
+                    gridHandler[x, y] = Grid.GRASS;
+                    floortilemap.SetTile(new Vector3Int(x - gridHandler.GetLength(0) / 2, y - gridHandler.GetLength(1) / 2, 0), grassTile);
                 }
             }
         }
