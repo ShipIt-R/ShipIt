@@ -18,7 +18,7 @@ public class PathCreator : MonoBehaviour
 
     void Start()
     {
-        Vector3Int stallpos = new Vector3Int(15, 0, 0);
+        Vector3Int stallpos = new Vector3Int(14, 0, 0);
         pathPoints.Add(tilemap.GetCellCenterWorld(stallpos));
         AddPathPoint(stallpos);
     }
