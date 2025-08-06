@@ -1,64 +1,85 @@
 using JetBrains.Annotations;
 using System;
+using System.Collections.Generic;
 using UnityEditor.ShaderGraph.Internal;
 using UnityEngine;
 
 public class moveScript : MonoBehaviour
 {
-    // Liste mit den Koordinaten, die das Objekt der Reihe nach abläuft.
-    public float[][] path = new float[][] 
-    {
-        new float[] { 1.53f, 0.72f }, new float[] { -1.53f, 0.72f }, new float[] { -1.53f, 0.24f }, new float[] { 1.04f, 0.24f }, new float[] { 1.04f, -0.24f }, new float[] {-1.53f, -0.24f}, new float[] {-1.53f, -0.72f}, new float[] { 1.53f, -0.72f }, new float[] { 1.53f, 0.72f }
-    };
+    // Referenz auf PathCreator, um auf pathPoints zuzugreifen
+    public PathCreator pathCreator;
 
-    // Veränderbare Werte
+    // Geschwindigkeit und ob man sich bewegt
     public float speed;
-    public bool moving = true;
+    public bool moving = false;
     private int point = 0;
+
+    // Die Liste mit den Wegpunkten
+    private List<Vector3> pathPoints;
+
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        // Das Objekt wird an den Startpunkt "Teleportiert"
-        transform.position = new Vector3(path[0][0], path[0][1], 0);
+        // Warten, bis pathPoints gesetzt ist
+        if (pathCreator != null && pathCreator.GetPathPoints() != null && pathCreator.GetPathPoints().Count > 0)
+        {
+            pathPoints = pathCreator.GetPathPoints();
+            transform.position = pathPoints[0];
+            moving = true;
+        }
+        else
+        {
+            moving = false;
+        }
     }
 
     // Update is called once per frame
     void Update()
     {
-        // Wenn das Objekt sich bewegen sollte... wird der ganze Block ausgeführt.
-        if (moving) {
-            // Wenn es am Ende angekommen ist
-            if (point == path.Length - 1)
+        // Prüfen, ob pathPoints gesetzt und gültig ist
+        if (!moving)
+        {
+            // Prüfen, ob ein neuer Pfad erstellt wurde
+            if (pathCreator != null && pathCreator.GetPathPoints() != null && pathCreator.GetPathPoints().Count > 0)
             {
-                // Zum Testen teleportiert es sich am Ende zurück zum Anfang. Später hört es auf sich zu bewegen.
-                //moving = false;
+                pathPoints = pathCreator.GetPathPoints();
                 point = 0;
-                transform.position = new Vector3(path[0][0], path[0][1], 0);
-            } else
+                transform.position = pathPoints[0];
+                GetComponent<SpriteRenderer>().enabled = true;
+                moving = true;
+            }
+            else
             {
-                // Der einfachheit halber werden hier noch einige Variablen definiert, damit man sie nicht immer neu ausrechnen muss.
-                Vector3 moveVector = PathVector3(path[point], path[point + 1]) * speed * Time.deltaTime;
-                float overwalk = CompareOverwalk(moveVector, new Vector3(path[point + 1][0], path[point + 1][1], 0) - transform.position);
-                // Wenn man über den nächsten Punkt hinuslaufen würde. Hierfür Schaue ich ob der Vektor von der Position zum Zielpunkt kleiner ist, als der Vektor den ich laufen würde.
-                if (overwalk > 0) 
-                { 
-                    // Wenn ich darüberhinauslaufen würde, laufe ich zum nächsten Punkt und ich bin einen Punkt weiter.
-                    transform.position = new Vector3(path[point + 1][0], path[point + 1][1], 0);
-                    point++;
-                } else
+                return;
+            }
+        }
+
+        if (moving && pathPoints != null && pathPoints.Count > 1)
+        {
+            if (point == pathPoints.Count - 1)
+            {
+                // Am Ende angekommen: zurück zum Anfang
+                point = 0;
+                transform.position = pathPoints[0];
+            }
+            else
+            {
+                Vector3 moveVector = Vector3.Normalize(pathPoints[point + 1] - pathPoints[point]) * speed * Time.deltaTime;
+                transform.rotation = Quaternion.Euler(0, 0, GetAngleFromVector3(moveVector));
+                float overwalk = CompareOverwalk(moveVector, pathPoints[point + 1] - transform.position);
+                // Wenn der Vektor länger ist als der Abstand zum nächsten Punkt, dann gehe zum nächsten Punkt
+                if (overwalk > 0)
                 {
-                    // Sonst laufe ich einfach den Vektor den ich laufen würde.
+                    transform.position = pathPoints[point + 1];
+                    point++;
+                }
+                else
+                {
                     transform.position = transform.position + moveVector;
                 }
             }
         }
-    }
-
-    // Verbindungsvektor von 2 Koordinaten berechnen
-    private Vector3 PathVector3(float[] coordbase, float[] coordend)
-    {
-        return new Vector3(coordend[0] - coordbase[0], coordend[1] - coordbase[1], 0);
     }
 
     // Vergleichen um wieveiel der eine Vektor länger ist als der andere.
@@ -72,5 +93,13 @@ public class moveScript : MonoBehaviour
         }
         // Hier rechne ich noch aus, wie viel ich über das Ziel hinausschiesse. Da einer der Vektorgrössen immer 0 ist, bekomme ich immer die Länge.
         return Mathf.Abs(walkvec.x + walkvec.y) - Mathf.Abs(destvec.x + destvec.y);
+    }
+
+    private float GetAngleFromVector3(Vector3 dir)
+    {
+        float angleRad = Mathf.Atan2(dir.y, dir.x);
+        float angleDeg = angleRad * Mathf.Rad2Deg;
+
+        return (angleDeg + 270f) % 360f;
     }
 }
