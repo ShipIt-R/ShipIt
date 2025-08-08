@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Black_SUPERCAR_CLEAN_NORTHEAST_003_0: -6228285100615431753
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

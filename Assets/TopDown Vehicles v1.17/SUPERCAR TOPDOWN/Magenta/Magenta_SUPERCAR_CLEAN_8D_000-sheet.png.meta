@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_SUPERCAR_CLEAN_8D_000-sheet_0: -5590723088270535974
+      Magenta_SUPERCAR_CLEAN_8D_000-sheet_1: -4283875375775966635
+      Magenta_SUPERCAR_CLEAN_8D_000-sheet_2: -2502894102172350046
+      Magenta_SUPERCAR_CLEAN_8D_000-sheet_3: 6780169494664422817
+      Magenta_SUPERCAR_CLEAN_8D_000-sheet_4: -7081102411080384289
+      Magenta_SUPERCAR_CLEAN_8D_000-sheet_5: -4606908674590585904
+      Magenta_SUPERCAR_CLEAN_8D_000-sheet_6: 8906395658409010180
+      Magenta_SUPERCAR_CLEAN_8D_000-sheet_7: -470086876958703059
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

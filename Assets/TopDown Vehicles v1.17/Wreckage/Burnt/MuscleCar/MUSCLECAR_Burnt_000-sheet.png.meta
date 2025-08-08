@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MUSCLECAR_Burnt_000-sheet_0: -2109128527632589189
+      MUSCLECAR_Burnt_000-sheet_1: 7609418643578427093
+      MUSCLECAR_Burnt_000-sheet_2: -1160626842636471194
+      MUSCLECAR_Burnt_000-sheet_3: 1222339981362918684
+      MUSCLECAR_Burnt_000-sheet_4: 8198779456227647288
+      MUSCLECAR_Burnt_000-sheet_5: 3747361724591765778
+      MUSCLECAR_Burnt_000-sheet_6: 1730901096401066412
+      MUSCLECAR_Burnt_000-sheet_7: -794559267873373291
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

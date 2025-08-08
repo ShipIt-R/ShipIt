@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_SPORT_Wreck_000-sheet_0: -7489248636423347716
+      Magenta_SPORT_Wreck_000-sheet_1: -3163213502735041366
+      Magenta_SPORT_Wreck_000-sheet_2: 3115313367920179617
+      Magenta_SPORT_Wreck_000-sheet_3: 1292659272398950526
+      Magenta_SPORT_Wreck_000-sheet_4: 3725812121793902143
+      Magenta_SPORT_Wreck_000-sheet_5: 8371699863343063803
+      Magenta_SPORT_Wreck_000-sheet_6: -8838475413898896965
+      Magenta_SPORT_Wreck_000-sheet_7: -4739400919696428524
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

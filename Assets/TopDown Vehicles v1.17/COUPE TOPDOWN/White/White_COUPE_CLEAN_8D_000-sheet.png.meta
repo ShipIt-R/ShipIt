@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      White_COUPE_CLEAN_8D_000-sheet_0: 5496054323798589343
+      White_COUPE_CLEAN_8D_000-sheet_1: 5202274736043351221
+      White_COUPE_CLEAN_8D_000-sheet_2: 1433120515250599777
+      White_COUPE_CLEAN_8D_000-sheet_3: -7068709028366800794
+      White_COUPE_CLEAN_8D_000-sheet_4: -638670822261066995
+      White_COUPE_CLEAN_8D_000-sheet_5: -939334027688742164
+      White_COUPE_CLEAN_8D_000-sheet_6: 6091807721973411881
+      White_COUPE_CLEAN_8D_000-sheet_7: 3016470735790189068
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

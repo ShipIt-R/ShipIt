@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_BUS_Wreck_000-sheet_0: -8157542661469369192
+      Magenta_BUS_Wreck_000-sheet_1: 7008460175461514654
+      Magenta_BUS_Wreck_000-sheet_2: -6546458431058553969
+      Magenta_BUS_Wreck_000-sheet_3: -5661331383103139519
+      Magenta_BUS_Wreck_000-sheet_4: 5297274474937912764
+      Magenta_BUS_Wreck_000-sheet_5: -3910136013579462810
+      Magenta_BUS_Wreck_000-sheet_6: 4589146407124573699
+      Magenta_BUS_Wreck_000-sheet_7: -7164371521291784061
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Green_BUS_Wreckl_004_0: -2301128168230627176
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

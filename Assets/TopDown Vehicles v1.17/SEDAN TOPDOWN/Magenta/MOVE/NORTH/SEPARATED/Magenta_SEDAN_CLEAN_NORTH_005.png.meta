@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_SEDAN_CLEAN_NORTH_005_0: -8583251936915632708
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

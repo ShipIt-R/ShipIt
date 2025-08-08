@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Red_COUPE_Wreck_000-sheet_0: 6740163449508820501
+      Red_COUPE_Wreck_000-sheet_1: -4494689724156018254
+      Red_COUPE_Wreck_000-sheet_2: -344370324552924967
+      Red_COUPE_Wreck_000-sheet_3: 8835408567029507860
+      Red_COUPE_Wreck_000-sheet_4: 3915197551949670156
+      Red_COUPE_Wreck_000-sheet_5: -7382833257983138978
+      Red_COUPE_Wreck_000-sheet_6: -6515427944365890382
+      Red_COUPE_Wreck_000-sheet_7: 7938777402225752924
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

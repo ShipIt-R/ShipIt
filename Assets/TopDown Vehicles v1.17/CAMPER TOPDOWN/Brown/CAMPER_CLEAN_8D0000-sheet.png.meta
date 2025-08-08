@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CAMPER_CLEAN_8D0000-sheet_0: -624851375452296690
+      CAMPER_CLEAN_8D0000-sheet_1: -3207848864571130946
+      CAMPER_CLEAN_8D0000-sheet_2: -8662711855196350748
+      CAMPER_CLEAN_8D0000-sheet_3: -8618309403438681715
+      CAMPER_CLEAN_8D0000-sheet_4: -5627586006630994325
+      CAMPER_CLEAN_8D0000-sheet_5: -886795538054012435
+      CAMPER_CLEAN_8D0000-sheet_6: 8577424668937981202
+      CAMPER_CLEAN_8D0000-sheet_7: -7675583016612734580
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

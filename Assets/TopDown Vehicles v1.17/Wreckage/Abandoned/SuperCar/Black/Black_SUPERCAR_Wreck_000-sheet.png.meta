@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Black_SUPERCAR_Wreck_000-sheet_0: -8254796016957551324
+      Black_SUPERCAR_Wreck_000-sheet_1: 2399366146083997228
+      Black_SUPERCAR_Wreck_000-sheet_2: -293630451991189630
+      Black_SUPERCAR_Wreck_000-sheet_3: -3475470587346054758
+      Black_SUPERCAR_Wreck_000-sheet_4: 214790213492286317
+      Black_SUPERCAR_Wreck_000-sheet_5: -4984348115985400691
+      Black_SUPERCAR_Wreck_000-sheet_6: -5662224310105452998
+      Black_SUPERCAR_Wreck_000-sheet_7: -5735329108909128236
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

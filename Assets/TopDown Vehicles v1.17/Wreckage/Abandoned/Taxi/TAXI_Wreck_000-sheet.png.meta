@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TAXI_Wreck_000-sheet_0: 2491464963970832518
+      TAXI_Wreck_000-sheet_1: -6870398502780063481
+      TAXI_Wreck_000-sheet_2: 8832553571340450358
+      TAXI_Wreck_000-sheet_3: -5501045604649970792
+      TAXI_Wreck_000-sheet_4: 4798018788430547122
+      TAXI_Wreck_000-sheet_5: -2694680205202320910
+      TAXI_Wreck_000-sheet_6: 5074476821477709727
+      TAXI_Wreck_000-sheet_7: 4941454986503885056
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

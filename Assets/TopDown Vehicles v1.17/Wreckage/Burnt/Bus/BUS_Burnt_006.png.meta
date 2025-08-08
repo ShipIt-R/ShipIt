@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BUS_Burnt_006_0: -431786766813253842
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

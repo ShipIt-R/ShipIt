@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      White_JEEP_Wreck_004_0: 2858814368431321679
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

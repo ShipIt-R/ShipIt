@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SPORT_Burnt_004_0: -4163230150307679777
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

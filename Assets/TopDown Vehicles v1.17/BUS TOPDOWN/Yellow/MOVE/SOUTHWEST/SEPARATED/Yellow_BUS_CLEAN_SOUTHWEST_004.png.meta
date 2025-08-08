@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Yellow_BUS_CLEAN_SOUTHWEST_004_0: -224722344446500271
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_VAN_CLEAN_SOUTHWEST_000-sheet_0: 2763926968613739489
+      Magenta_VAN_CLEAN_SOUTHWEST_000-sheet_1: 3637983437168003606
+      Magenta_VAN_CLEAN_SOUTHWEST_000-sheet_10: -2805333851908600946
+      Magenta_VAN_CLEAN_SOUTHWEST_000-sheet_11: -3244797303029426540
+      Magenta_VAN_CLEAN_SOUTHWEST_000-sheet_2: -1676058856739796403
+      Magenta_VAN_CLEAN_SOUTHWEST_000-sheet_3: -5361273014788656381
+      Magenta_VAN_CLEAN_SOUTHWEST_000-sheet_4: 2267974868471500272
+      Magenta_VAN_CLEAN_SOUTHWEST_000-sheet_5: -1577750049759565681
+      Magenta_VAN_CLEAN_SOUTHWEST_000-sheet_6: -4388180711556649736
+      Magenta_VAN_CLEAN_SOUTHWEST_000-sheet_7: -7174038630443453123
+      Magenta_VAN_CLEAN_SOUTHWEST_000-sheet_8: 440431396591311629
+      Magenta_VAN_CLEAN_SOUTHWEST_000-sheet_9: -8303979775571734928
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

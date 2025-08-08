@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Black_SUV_CLEAN_WEST_000-sheet_0: 3238359818484400437
+      Black_SUV_CLEAN_WEST_000-sheet_1: 166629774418357507
+      Black_SUV_CLEAN_WEST_000-sheet_10: 196594938910598631
+      Black_SUV_CLEAN_WEST_000-sheet_11: -1493331309297840733
+      Black_SUV_CLEAN_WEST_000-sheet_2: 379657036814146980
+      Black_SUV_CLEAN_WEST_000-sheet_3: 5478578035534009242
+      Black_SUV_CLEAN_WEST_000-sheet_4: -4732424264036935022
+      Black_SUV_CLEAN_WEST_000-sheet_5: -3596843965764082989
+      Black_SUV_CLEAN_WEST_000-sheet_6: -2904824507313502402
+      Black_SUV_CLEAN_WEST_000-sheet_7: 4239312685436380539
+      Black_SUV_CLEAN_WEST_000-sheet_8: -6361769217085966892
+      Black_SUV_CLEAN_WEST_000-sheet_9: 1191092181851283120
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

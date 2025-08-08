@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Yellow_SPORT_CLEAN_NORTH_000-sheet_0: -4723678740832661761
+      Yellow_SPORT_CLEAN_NORTH_000-sheet_1: 5331893340171510169
+      Yellow_SPORT_CLEAN_NORTH_000-sheet_10: 4036716661649106959
+      Yellow_SPORT_CLEAN_NORTH_000-sheet_11: 6095164377936696019
+      Yellow_SPORT_CLEAN_NORTH_000-sheet_2: -5834706338733559456
+      Yellow_SPORT_CLEAN_NORTH_000-sheet_3: -867675948752427573
+      Yellow_SPORT_CLEAN_NORTH_000-sheet_4: 2346977566011084039
+      Yellow_SPORT_CLEAN_NORTH_000-sheet_5: 8079165089131407824
+      Yellow_SPORT_CLEAN_NORTH_000-sheet_6: 273980405495561182
+      Yellow_SPORT_CLEAN_NORTH_000-sheet_7: -8386399735168937994
+      Yellow_SPORT_CLEAN_NORTH_000-sheet_8: 1785779372886831121
+      Yellow_SPORT_CLEAN_NORTH_000-sheet_9: 5944832384591444542
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

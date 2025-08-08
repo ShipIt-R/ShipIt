@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_MUSCLECAR_CLEAN_8D_000-sheet_0: -2375262944308098272
+      Magenta_MUSCLECAR_CLEAN_8D_000-sheet_1: -4316241516044260256
+      Magenta_MUSCLECAR_CLEAN_8D_000-sheet_2: -4210436776692269689
+      Magenta_MUSCLECAR_CLEAN_8D_000-sheet_3: -79313059780551525
+      Magenta_MUSCLECAR_CLEAN_8D_000-sheet_4: 7635674706112870999
+      Magenta_MUSCLECAR_CLEAN_8D_000-sheet_5: -2197455181798409668
+      Magenta_MUSCLECAR_CLEAN_8D_000-sheet_6: 1864179231958164655
+      Magenta_MUSCLECAR_CLEAN_8D_000-sheet_7: 3589557297710456133
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

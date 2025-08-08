@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Yellow_MICRO_Wreck_002_0: -5844142720356194072
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

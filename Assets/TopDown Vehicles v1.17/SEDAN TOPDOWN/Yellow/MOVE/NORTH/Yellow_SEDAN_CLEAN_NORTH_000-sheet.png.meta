@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Yellow_SEDAN_CLEAN_NORTH_000-sheet_0: -1971459246042285491
+      Yellow_SEDAN_CLEAN_NORTH_000-sheet_1: -8428747492455425518
+      Yellow_SEDAN_CLEAN_NORTH_000-sheet_10: 3228374503479765476
+      Yellow_SEDAN_CLEAN_NORTH_000-sheet_11: -3201178475516381091
+      Yellow_SEDAN_CLEAN_NORTH_000-sheet_2: 5481522443530783328
+      Yellow_SEDAN_CLEAN_NORTH_000-sheet_3: -7383835731149994927
+      Yellow_SEDAN_CLEAN_NORTH_000-sheet_4: -5959348635183470283
+      Yellow_SEDAN_CLEAN_NORTH_000-sheet_5: 2381038280136826684
+      Yellow_SEDAN_CLEAN_NORTH_000-sheet_6: -4116048380974964751
+      Yellow_SEDAN_CLEAN_NORTH_000-sheet_7: -535226932912896898
+      Yellow_SEDAN_CLEAN_NORTH_000-sheet_8: 8604253007379937095
+      Yellow_SEDAN_CLEAN_NORTH_000-sheet_9: -7833395800018886978
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_MICRO_CLEAN_NORTHWEST_008_0: 7962247248875404937
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

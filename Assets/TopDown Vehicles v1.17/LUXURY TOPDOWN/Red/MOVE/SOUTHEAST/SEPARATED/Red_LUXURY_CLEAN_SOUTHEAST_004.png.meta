@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Red_LUXURY_CLEAN_SOUTHEAST_004_0: 410889533216141765
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

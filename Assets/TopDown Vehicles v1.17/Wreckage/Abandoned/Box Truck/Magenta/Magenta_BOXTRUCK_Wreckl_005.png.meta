@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_BOXTRUCK_Wreckl_005_0: 1083988989569422976
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

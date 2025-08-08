@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Black_VAN_Wreck_000-sheet_0: 8009719519839519487
+      Black_VAN_Wreck_000-sheet_1: 5621892640801508170
+      Black_VAN_Wreck_000-sheet_2: 8410871486346130469
+      Black_VAN_Wreck_000-sheet_3: -1606276428802754587
+      Black_VAN_Wreck_000-sheet_4: 5971250442637303198
+      Black_VAN_Wreck_000-sheet_5: -4169854277741482827
+      Black_VAN_Wreck_000-sheet_6: 1987659975223445337
+      Black_VAN_Wreck_000-sheet_7: -7151319173889968468
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_SPORT_CLEAN_EAST_004_0: -5243863199470243036
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BOXTRUCK_Burnt_006_0: 1575839421365195566
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

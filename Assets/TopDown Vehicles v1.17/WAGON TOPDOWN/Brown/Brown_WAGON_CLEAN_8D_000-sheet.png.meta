@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Brown_WAGON_CLEAN_8D_000-sheet_0: -1324235940538512972
+      Brown_WAGON_CLEAN_8D_000-sheet_1: -7516610255051682494
+      Brown_WAGON_CLEAN_8D_000-sheet_2: 5099453939909217825
+      Brown_WAGON_CLEAN_8D_000-sheet_3: 8407416833886275912
+      Brown_WAGON_CLEAN_8D_000-sheet_4: -8461964669446697136
+      Brown_WAGON_CLEAN_8D_000-sheet_5: 6699838579503367717
+      Brown_WAGON_CLEAN_8D_000-sheet_6: -8231573785315028494
+      Brown_WAGON_CLEAN_8D_000-sheet_7: 7388920110267087153
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

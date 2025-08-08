@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_SUPERCAR_CLEAN_NORTHWEST_002_0: 7833684434146356722
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

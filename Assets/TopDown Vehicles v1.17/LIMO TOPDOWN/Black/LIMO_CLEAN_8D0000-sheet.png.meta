@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      LIMO_CLEAN_8D0000-sheet_0: 5567714957763151649
+      LIMO_CLEAN_8D0000-sheet_1: -7004295203986623699
+      LIMO_CLEAN_8D0000-sheet_2: 5023387015082768829
+      LIMO_CLEAN_8D0000-sheet_3: 2313205495127790298
+      LIMO_CLEAN_8D0000-sheet_4: -394377950973288412
+      LIMO_CLEAN_8D0000-sheet_5: -4454892179311501671
+      LIMO_CLEAN_8D0000-sheet_6: 4795470717007579760
+      LIMO_CLEAN_8D0000-sheet_7: -3920172451609315207
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

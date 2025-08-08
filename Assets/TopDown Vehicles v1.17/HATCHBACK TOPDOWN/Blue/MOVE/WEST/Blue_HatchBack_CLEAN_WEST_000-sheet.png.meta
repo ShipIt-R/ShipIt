@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Blue_HatchBack_CLEAN_WEST_000-sheet_0: -9093060670395839520
+      Blue_HatchBack_CLEAN_WEST_000-sheet_1: -1940175465606387480
+      Blue_HatchBack_CLEAN_WEST_000-sheet_10: -3052749775734946674
+      Blue_HatchBack_CLEAN_WEST_000-sheet_11: 5402184158541731648
+      Blue_HatchBack_CLEAN_WEST_000-sheet_2: 8467717444825377309
+      Blue_HatchBack_CLEAN_WEST_000-sheet_3: -2094854386457517239
+      Blue_HatchBack_CLEAN_WEST_000-sheet_4: -997147743676434419
+      Blue_HatchBack_CLEAN_WEST_000-sheet_5: -2276561032309395668
+      Blue_HatchBack_CLEAN_WEST_000-sheet_6: -1382853989516364064
+      Blue_HatchBack_CLEAN_WEST_000-sheet_7: 3149493294531935264
+      Blue_HatchBack_CLEAN_WEST_000-sheet_8: 438854177383335286
+      Blue_HatchBack_CLEAN_WEST_000-sheet_9: -7045723306907396978
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

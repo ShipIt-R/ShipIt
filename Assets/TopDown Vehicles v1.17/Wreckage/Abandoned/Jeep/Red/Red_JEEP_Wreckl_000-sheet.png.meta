@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Red_JEEP_Wreckl_000-sheet_0: -220325027573165658
+      Red_JEEP_Wreckl_000-sheet_1: -3269078172586996676
+      Red_JEEP_Wreckl_000-sheet_2: -7364880917224294975
+      Red_JEEP_Wreckl_000-sheet_3: 3303161423705429455
+      Red_JEEP_Wreckl_000-sheet_4: -2059292089910457615
+      Red_JEEP_Wreckl_000-sheet_5: -1859805866009395353
+      Red_JEEP_Wreckl_000-sheet_6: 45393190604355535
+      Red_JEEP_Wreckl_000-sheet_7: 1019070571402686070
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

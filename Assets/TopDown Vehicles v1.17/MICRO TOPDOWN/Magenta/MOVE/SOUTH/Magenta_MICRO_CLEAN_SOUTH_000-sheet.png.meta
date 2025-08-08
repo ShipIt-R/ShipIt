@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_MICRO_CLEAN_SOUTH_000-sheet_0: -5802843047520308107
+      Magenta_MICRO_CLEAN_SOUTH_000-sheet_1: -8327480323772291796
+      Magenta_MICRO_CLEAN_SOUTH_000-sheet_10: -4450220690222934913
+      Magenta_MICRO_CLEAN_SOUTH_000-sheet_11: -3401888095430037177
+      Magenta_MICRO_CLEAN_SOUTH_000-sheet_2: -7251027123701858001
+      Magenta_MICRO_CLEAN_SOUTH_000-sheet_3: 6669915035289583567
+      Magenta_MICRO_CLEAN_SOUTH_000-sheet_4: 2954220046975612918
+      Magenta_MICRO_CLEAN_SOUTH_000-sheet_5: -2027037585771119680
+      Magenta_MICRO_CLEAN_SOUTH_000-sheet_6: 251242036490517812
+      Magenta_MICRO_CLEAN_SOUTH_000-sheet_7: -684364662231345180
+      Magenta_MICRO_CLEAN_SOUTH_000-sheet_8: 5305849546306693916
+      Magenta_MICRO_CLEAN_SOUTH_000-sheet_9: -8670261348515662674
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

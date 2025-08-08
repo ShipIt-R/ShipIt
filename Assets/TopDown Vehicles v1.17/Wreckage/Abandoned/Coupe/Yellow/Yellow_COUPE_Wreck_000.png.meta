@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Yellow_COUPE_Wreck_000_0: 5123916591433386703
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

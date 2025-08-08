@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CIVIC_Burnt_000-sheet_0: -3947117592189328574
+      CIVIC_Burnt_000-sheet_1: -2179512510624030896
+      CIVIC_Burnt_000-sheet_2: -1287915962111349847
+      CIVIC_Burnt_000-sheet_3: 4485519807153270765
+      CIVIC_Burnt_000-sheet_4: -5530227203767489726
+      CIVIC_Burnt_000-sheet_5: -3503116321609104549
+      CIVIC_Burnt_000-sheet_6: -6671661993783156001
+      CIVIC_Burnt_000-sheet_7: -3128023688654958845
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

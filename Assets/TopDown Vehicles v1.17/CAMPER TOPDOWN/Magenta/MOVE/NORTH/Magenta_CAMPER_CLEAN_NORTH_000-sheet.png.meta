@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_CAMPER_CLEAN_NORTH_000-sheet_0: 599411515321690483
+      Magenta_CAMPER_CLEAN_NORTH_000-sheet_1: 1337831702382895562
+      Magenta_CAMPER_CLEAN_NORTH_000-sheet_10: -7090597759571906798
+      Magenta_CAMPER_CLEAN_NORTH_000-sheet_11: 5605488535755009937
+      Magenta_CAMPER_CLEAN_NORTH_000-sheet_2: -8554683586806650200
+      Magenta_CAMPER_CLEAN_NORTH_000-sheet_3: -4602495480285879934
+      Magenta_CAMPER_CLEAN_NORTH_000-sheet_4: 1506681134152027697
+      Magenta_CAMPER_CLEAN_NORTH_000-sheet_5: -2022987254152637750
+      Magenta_CAMPER_CLEAN_NORTH_000-sheet_6: 6134878561632040794
+      Magenta_CAMPER_CLEAN_NORTH_000-sheet_7: -6222658877432761
+      Magenta_CAMPER_CLEAN_NORTH_000-sheet_8: -8894496251031642353
+      Magenta_CAMPER_CLEAN_NORTH_000-sheet_9: -6017314748090562867
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

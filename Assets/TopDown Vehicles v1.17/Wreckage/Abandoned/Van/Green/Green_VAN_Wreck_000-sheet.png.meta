@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Green_VAN_Wreck_000-sheet_0: -1185555165077740
+      Green_VAN_Wreck_000-sheet_1: -182089605923253985
+      Green_VAN_Wreck_000-sheet_2: 6399339903671223681
+      Green_VAN_Wreck_000-sheet_3: -26465968656427869
+      Green_VAN_Wreck_000-sheet_4: -5947296702425693882
+      Green_VAN_Wreck_000-sheet_5: -8281223352379237774
+      Green_VAN_Wreck_000-sheet_6: 3803838794598899714
+      Green_VAN_Wreck_000-sheet_7: -3821861432372325171
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

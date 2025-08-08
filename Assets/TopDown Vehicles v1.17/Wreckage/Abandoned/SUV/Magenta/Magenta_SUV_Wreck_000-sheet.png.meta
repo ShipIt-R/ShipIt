@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_SUV_Wreck_000-sheet_0: -2676420058772517247
+      Magenta_SUV_Wreck_000-sheet_1: -1618318620526018395
+      Magenta_SUV_Wreck_000-sheet_2: -2674687013073793751
+      Magenta_SUV_Wreck_000-sheet_3: -580352959147153987
+      Magenta_SUV_Wreck_000-sheet_4: -5522537484539135107
+      Magenta_SUV_Wreck_000-sheet_5: 4511193108277688261
+      Magenta_SUV_Wreck_000-sheet_6: -7042236910087179023
+      Magenta_SUV_Wreck_000-sheet_7: -3717300070140208897
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_LIMO_CLEAN_All_039_0: -2343141590832209739
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

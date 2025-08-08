@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Black_WAGON_CLEAN_EAST_000-sheet_0: -5612678147749056902
+      Black_WAGON_CLEAN_EAST_000-sheet_1: -8749645596026075138
+      Black_WAGON_CLEAN_EAST_000-sheet_10: -8498515788623467088
+      Black_WAGON_CLEAN_EAST_000-sheet_11: 5529332392210942344
+      Black_WAGON_CLEAN_EAST_000-sheet_2: -5971118763956692995
+      Black_WAGON_CLEAN_EAST_000-sheet_3: 6306017214250892709
+      Black_WAGON_CLEAN_EAST_000-sheet_4: 5152521436739502015
+      Black_WAGON_CLEAN_EAST_000-sheet_5: -2743200133452093894
+      Black_WAGON_CLEAN_EAST_000-sheet_6: 4208283443328472508
+      Black_WAGON_CLEAN_EAST_000-sheet_7: -3715092264754854325
+      Black_WAGON_CLEAN_EAST_000-sheet_8: 2920379205255230350
+      Black_WAGON_CLEAN_EAST_000-sheet_9: 4585674152626404397
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

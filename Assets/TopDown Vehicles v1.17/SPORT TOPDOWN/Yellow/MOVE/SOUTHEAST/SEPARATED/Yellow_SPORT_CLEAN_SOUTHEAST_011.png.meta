@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Yellow_SPORT_CLEAN_SOUTHEAST_011_0: -67797513458231349
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

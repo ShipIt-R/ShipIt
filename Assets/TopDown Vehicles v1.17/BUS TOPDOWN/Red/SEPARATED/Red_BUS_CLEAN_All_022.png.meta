@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Red_BUS_CLEAN_All_022_0: 9191938268375084549
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

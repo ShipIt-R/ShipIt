@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WAGON_Burntl_000_0: -7433631048186292024
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

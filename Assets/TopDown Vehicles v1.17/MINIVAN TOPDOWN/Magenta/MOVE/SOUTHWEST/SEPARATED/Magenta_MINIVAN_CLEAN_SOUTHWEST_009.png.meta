@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_MINIVAN_CLEAN_SOUTHWEST_009_0: -3379891688676124927
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Yellow_BOXTRUCK_CLEAN_NORTHEAST_004_0: 1694079258946344186
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

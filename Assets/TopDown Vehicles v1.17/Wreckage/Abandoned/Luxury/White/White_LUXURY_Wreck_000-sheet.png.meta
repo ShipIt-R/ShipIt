@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      White_LUXURY_Wreck_000-sheet_0: 7833059772502475098
+      White_LUXURY_Wreck_000-sheet_1: -3648495335950622568
+      White_LUXURY_Wreck_000-sheet_2: 2839706802440993724
+      White_LUXURY_Wreck_000-sheet_3: -8102533695035249929
+      White_LUXURY_Wreck_000-sheet_4: 2228353391660606937
+      White_LUXURY_Wreck_000-sheet_5: 4596645257757394901
+      White_LUXURY_Wreck_000-sheet_6: 978344018832496074
+      White_LUXURY_Wreck_000-sheet_7: 5949787027024171986
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

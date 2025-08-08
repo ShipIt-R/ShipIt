@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Blue_LIMO_Wreck_002_0: 5577900334597415610
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

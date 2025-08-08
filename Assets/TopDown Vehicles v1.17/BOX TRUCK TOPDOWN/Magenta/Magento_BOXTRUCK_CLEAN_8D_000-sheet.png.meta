@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magento_BOXTRUCK_CLEAN_8D_000-sheet_0: 950210590566879536
+      Magento_BOXTRUCK_CLEAN_8D_000-sheet_1: -5709464330957976910
+      Magento_BOXTRUCK_CLEAN_8D_000-sheet_2: -3049301077019341327
+      Magento_BOXTRUCK_CLEAN_8D_000-sheet_3: -215699934517887061
+      Magento_BOXTRUCK_CLEAN_8D_000-sheet_4: 9081191988924013356
+      Magento_BOXTRUCK_CLEAN_8D_000-sheet_5: -2239932809576715709
+      Magento_BOXTRUCK_CLEAN_8D_000-sheet_6: -4149980907846574535
+      Magento_BOXTRUCK_CLEAN_8D_000-sheet_7: 6358607679891435703
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

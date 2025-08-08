@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Brown_MICRO_CLEAN_EAST_010_0: -8134941231625779951
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

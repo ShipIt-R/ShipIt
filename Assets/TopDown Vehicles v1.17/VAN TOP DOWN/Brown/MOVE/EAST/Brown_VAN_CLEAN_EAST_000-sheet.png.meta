@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Brown_VAN_CLEAN_EAST_000-sheet_0: 8531547243298320543
+      Brown_VAN_CLEAN_EAST_000-sheet_1: -8991693034999132850
+      Brown_VAN_CLEAN_EAST_000-sheet_10: 4688623216755419490
+      Brown_VAN_CLEAN_EAST_000-sheet_11: -7625404862082569525
+      Brown_VAN_CLEAN_EAST_000-sheet_2: -7202797368390276241
+      Brown_VAN_CLEAN_EAST_000-sheet_3: 8912929339588291169
+      Brown_VAN_CLEAN_EAST_000-sheet_4: -4535217845499644905
+      Brown_VAN_CLEAN_EAST_000-sheet_5: 266941271016562558
+      Brown_VAN_CLEAN_EAST_000-sheet_6: 402841042318719853
+      Brown_VAN_CLEAN_EAST_000-sheet_7: -8526109340522425460
+      Brown_VAN_CLEAN_EAST_000-sheet_8: -5720324451427226779
+      Brown_VAN_CLEAN_EAST_000-sheet_9: -8531205003314314305
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

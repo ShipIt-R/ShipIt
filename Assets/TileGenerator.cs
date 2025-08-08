@@ -50,6 +50,7 @@ public class TileGenerator : MonoBehaviour
             }
         }
 
+        // Eine eigene Schleife um die Gegenstände zu entfernen, nachdem die Schleife durchgelaufen ist.
         if (toRemove.Count != 0)
         {
             foreach (WalkerObject walker2 in toRemove)
@@ -60,13 +61,13 @@ public class TileGenerator : MonoBehaviour
         }
     }
 
-    // floortilemap.SetTile(new Vector3Int(x - gridHandler.GetLength(0) / 2, y - gridHandler.GetLength(1) / 2, 0), pathTile);
     void initializeGrid()
     {
         Walkers = new List<WalkerObject>();
         toRemove = new List<WalkerObject>();
         gridHandler = new Grid[MAPWIDTH, MAPHEIGHT];
 
+        // Das Grid wird mit Leeren Feldern gefüllt bis auf die Rechte und linke Insel
         for (int x = 0; x < gridHandler.GetLength(0); x++)
         {
             for (int y = 0; y < gridHandler.GetLength(1); y++)
@@ -79,7 +80,8 @@ public class TileGenerator : MonoBehaviour
                 }
             }
         }
-        // walker = new Vector2Int((MAPWIDTH - rightisland), 17);
+
+        // Die beiden Walker werden an ihren jeweiligen Startpositionen gespawnt
         for (int i=3; i<18; i+=14)
         {
             walker = new WalkerObject(new Vector2Int(MAPWIDTH - rightisland, i), curve_Change, detour);
@@ -90,19 +92,20 @@ public class TileGenerator : MonoBehaviour
 
     private void walkerwalk(WalkerObject walker)
     {
-        walker.position += walker.direction;
-        settiles(walker);
-        gridHandler[walker.position.x, walker.position.y] = Grid.PATH;
+        walker.position += walker.direction; // Der walker bewegt sich
+        settiles(walker); // Der Walker setzt die Tiles 
         Vector2Int should_direction;
         do {
             if (UnityEngine.Random.value < walker.curve_change_value)
             {
-                should_direction = getDirection(walker);
+                should_direction = getDirection(walker); // Eine der vier Himmelsrichtungen wird ausgewählt.
+                // Wenn die Richtung entgegengesetzt der letzten Richtung ist, wird die Richtung umgekehrt.
+                // Dadurch hat die gleiche Richtung die es schon hatte die doppelte Chance, wie die beiden Seiten.
                 if (should_direction.Equals(walker.direction * -1))
                 {
                     should_direction *= -1;
                 }
-                walker.curve_change_value = curve_Change;
+                walker.curve_change_value = curve_Change; // Die chance die Richtung zu wechseln wird zurückgesetzt
             } else
             {
                 should_direction = walker.direction;

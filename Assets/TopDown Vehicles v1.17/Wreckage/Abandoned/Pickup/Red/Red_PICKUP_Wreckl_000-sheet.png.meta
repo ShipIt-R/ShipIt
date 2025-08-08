@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Red_PICKUP_Wreckl_000-sheet_0: -2439008689888570135
+      Red_PICKUP_Wreckl_000-sheet_1: 7135153998037508960
+      Red_PICKUP_Wreckl_000-sheet_2: -6905102928269707009
+      Red_PICKUP_Wreckl_000-sheet_3: -2563736081385916159
+      Red_PICKUP_Wreckl_000-sheet_4: 2039713847203227996
+      Red_PICKUP_Wreckl_000-sheet_5: 5535673351185544961
+      Red_PICKUP_Wreckl_000-sheet_6: -5831452002075342746
+      Red_PICKUP_Wreckl_000-sheet_7: 4911024328434270894
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

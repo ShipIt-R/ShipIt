@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_BUS_CLEAN_NORTH_000-sheet_0: -2878544847352622532
+      Magenta_BUS_CLEAN_NORTH_000-sheet_1: 4062887030357354166
+      Magenta_BUS_CLEAN_NORTH_000-sheet_10: 89452593531163043
+      Magenta_BUS_CLEAN_NORTH_000-sheet_11: 5047834928331062458
+      Magenta_BUS_CLEAN_NORTH_000-sheet_2: -8428462596472312917
+      Magenta_BUS_CLEAN_NORTH_000-sheet_3: -5675479166852552081
+      Magenta_BUS_CLEAN_NORTH_000-sheet_4: 4373305499088507039
+      Magenta_BUS_CLEAN_NORTH_000-sheet_5: -1770948761913563762
+      Magenta_BUS_CLEAN_NORTH_000-sheet_6: 7938954477055637767
+      Magenta_BUS_CLEAN_NORTH_000-sheet_7: 6779293725054065763
+      Magenta_BUS_CLEAN_NORTH_000-sheet_8: 1977837650800956600
+      Magenta_BUS_CLEAN_NORTH_000-sheet_9: -6812131323772803640
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

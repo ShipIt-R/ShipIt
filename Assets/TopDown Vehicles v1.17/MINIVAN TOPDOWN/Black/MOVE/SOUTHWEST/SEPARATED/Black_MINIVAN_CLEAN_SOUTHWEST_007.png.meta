@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Black_MINIVAN_CLEAN_SOUTHWEST_007_0: 944944472078360517
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

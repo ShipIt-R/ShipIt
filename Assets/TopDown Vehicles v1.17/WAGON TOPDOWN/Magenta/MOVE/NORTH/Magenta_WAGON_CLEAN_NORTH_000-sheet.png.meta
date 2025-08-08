@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_WAGON_CLEAN_NORTH_000-sheet_0: 5362534504531389077
+      Magenta_WAGON_CLEAN_NORTH_000-sheet_1: 8810602935460277959
+      Magenta_WAGON_CLEAN_NORTH_000-sheet_10: -6648728591461391792
+      Magenta_WAGON_CLEAN_NORTH_000-sheet_11: -335309533354552253
+      Magenta_WAGON_CLEAN_NORTH_000-sheet_2: -4261306518666272675
+      Magenta_WAGON_CLEAN_NORTH_000-sheet_3: 6017749859662158762
+      Magenta_WAGON_CLEAN_NORTH_000-sheet_4: 5264684882913195737
+      Magenta_WAGON_CLEAN_NORTH_000-sheet_5: 6249340210568102879
+      Magenta_WAGON_CLEAN_NORTH_000-sheet_6: -1152270746585807278
+      Magenta_WAGON_CLEAN_NORTH_000-sheet_7: 7819079749847514540
+      Magenta_WAGON_CLEAN_NORTH_000-sheet_8: -55075182952164334
+      Magenta_WAGON_CLEAN_NORTH_000-sheet_9: 2398361951953950196
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MINIVAN_Burnt_000-sheet_0: 1848889386012690146
+      MINIVAN_Burnt_000-sheet_1: 4119519708286677022
+      MINIVAN_Burnt_000-sheet_2: 2569859691538858421
+      MINIVAN_Burnt_000-sheet_3: 5654503796836696324
+      MINIVAN_Burnt_000-sheet_4: -7641024739876334659
+      MINIVAN_Burnt_000-sheet_5: 5404015185127331081
+      MINIVAN_Burnt_000-sheet_6: 161129584060487253
+      MINIVAN_Burnt_000-sheet_7: 7738635313451849765
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

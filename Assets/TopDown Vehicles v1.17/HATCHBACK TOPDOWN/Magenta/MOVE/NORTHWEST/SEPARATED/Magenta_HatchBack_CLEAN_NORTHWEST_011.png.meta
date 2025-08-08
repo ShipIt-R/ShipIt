@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_HatchBack_CLEAN_NORTHWEST_011_0: 8647139337480305026
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

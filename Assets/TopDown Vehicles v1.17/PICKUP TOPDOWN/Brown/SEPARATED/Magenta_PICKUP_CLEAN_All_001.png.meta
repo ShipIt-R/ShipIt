@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_PICKUP_CLEAN_All_001_0: 9070982518819479816
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

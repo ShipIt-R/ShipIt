@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      White_BUS_CLEAN_WEST_000-sheet_0: -1943976781981018908
+      White_BUS_CLEAN_WEST_000-sheet_1: 9183647709008343012
+      White_BUS_CLEAN_WEST_000-sheet_10: 2736056168505632362
+      White_BUS_CLEAN_WEST_000-sheet_11: 8548593961973995178
+      White_BUS_CLEAN_WEST_000-sheet_2: 1039561560715103963
+      White_BUS_CLEAN_WEST_000-sheet_3: 216969805960587438
+      White_BUS_CLEAN_WEST_000-sheet_4: -4657246591871595717
+      White_BUS_CLEAN_WEST_000-sheet_5: -4898731728953514546
+      White_BUS_CLEAN_WEST_000-sheet_6: -8468617819187502254
+      White_BUS_CLEAN_WEST_000-sheet_7: -2229505581259740471
+      White_BUS_CLEAN_WEST_000-sheet_8: 8897950683641237485
+      White_BUS_CLEAN_WEST_000-sheet_9: 5952327932720347676
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

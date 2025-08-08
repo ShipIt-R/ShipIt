@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Red_CIVIC_CLEAN_NORTHWEST_011_0: -9094117455111210702
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

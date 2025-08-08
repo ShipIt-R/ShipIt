@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      White_PICKUP_CLEAN_WEST_009_0: 7647715234541003114
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MUSCLECAR_Burnt_004_0: -7154007028208440314
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TAXI_Burntl_000_0: -8535180244704150961
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

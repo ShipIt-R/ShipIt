@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Green_SUPERCAR_CLEAN_8D_000-sheet_0: -6323779515191936883
+      Green_SUPERCAR_CLEAN_8D_000-sheet_1: 6754702843164163039
+      Green_SUPERCAR_CLEAN_8D_000-sheet_2: 4824834060503878357
+      Green_SUPERCAR_CLEAN_8D_000-sheet_3: -7955057606633300468
+      Green_SUPERCAR_CLEAN_8D_000-sheet_4: -1141425890816113895
+      Green_SUPERCAR_CLEAN_8D_000-sheet_5: 4480051789102334457
+      Green_SUPERCAR_CLEAN_8D_000-sheet_6: -3672449415562068925
+      Green_SUPERCAR_CLEAN_8D_000-sheet_7: -8529991111070648446
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

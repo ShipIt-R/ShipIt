@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_JEEP_CLEAN_All_032_0: -27430012440945556
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

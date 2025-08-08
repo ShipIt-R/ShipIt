@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AMBULANCE_CLEAN_8D0000-sheet_0: 36874786511525618
+      AMBULANCE_CLEAN_8D0000-sheet_1: -705933233550388623
+      AMBULANCE_CLEAN_8D0000-sheet_2: -3708952649979480016
+      AMBULANCE_CLEAN_8D0000-sheet_3: -7659179206317716119
+      AMBULANCE_CLEAN_8D0000-sheet_4: 7065709517546268215
+      AMBULANCE_CLEAN_8D0000-sheet_5: 2416420795666221116
+      AMBULANCE_CLEAN_8D0000-sheet_6: -6573334294161268165
+      AMBULANCE_CLEAN_8D0000-sheet_7: 5042459953033197598
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

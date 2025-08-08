@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      White_JEEP_CLEAN_WEST_000-sheet_0: -5218296565601335482
+      White_JEEP_CLEAN_WEST_000-sheet_1: -1387415478580828867
+      White_JEEP_CLEAN_WEST_000-sheet_10: 1874425865115692894
+      White_JEEP_CLEAN_WEST_000-sheet_11: -5360595628396389665
+      White_JEEP_CLEAN_WEST_000-sheet_2: -8134076850732205595
+      White_JEEP_CLEAN_WEST_000-sheet_3: -7924815434011283241
+      White_JEEP_CLEAN_WEST_000-sheet_4: -2923829055064359261
+      White_JEEP_CLEAN_WEST_000-sheet_5: -8954860093034393846
+      White_JEEP_CLEAN_WEST_000-sheet_6: -7935751541201705676
+      White_JEEP_CLEAN_WEST_000-sheet_7: 1685740710457623840
+      White_JEEP_CLEAN_WEST_000-sheet_8: 5956810482429434397
+      White_JEEP_CLEAN_WEST_000-sheet_9: -232411659291717617
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

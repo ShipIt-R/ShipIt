@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Yellow_JEEP_Wreck_000-sheet_0: -6244290042449850233
+      Yellow_JEEP_Wreck_000-sheet_1: 6346791284901941417
+      Yellow_JEEP_Wreck_000-sheet_2: -4096772050298000820
+      Yellow_JEEP_Wreck_000-sheet_3: 7282675390196393084
+      Yellow_JEEP_Wreck_000-sheet_4: -1213207787457517871
+      Yellow_JEEP_Wreck_000-sheet_5: 2774169927089309667
+      Yellow_JEEP_Wreck_000-sheet_6: 2815039098960528432
+      Yellow_JEEP_Wreck_000-sheet_7: 5955894628636744291
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

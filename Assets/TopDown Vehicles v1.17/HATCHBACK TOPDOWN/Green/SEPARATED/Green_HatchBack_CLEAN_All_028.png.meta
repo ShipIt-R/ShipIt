@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Green_HatchBack_CLEAN_All_028_0: 2054468757585379818
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

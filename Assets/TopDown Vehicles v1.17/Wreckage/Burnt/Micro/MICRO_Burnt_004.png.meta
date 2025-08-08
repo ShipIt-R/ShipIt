@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MICRO_Burnt_004_0: 7779854332763619811
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

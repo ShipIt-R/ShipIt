@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Brown_MICRO_CLEAN_WEST_000-sheet_0: 6057695436939085427
+      Brown_MICRO_CLEAN_WEST_000-sheet_1: -43476541241868366
+      Brown_MICRO_CLEAN_WEST_000-sheet_10: -7047921774229990580
+      Brown_MICRO_CLEAN_WEST_000-sheet_11: 6192008213784437226
+      Brown_MICRO_CLEAN_WEST_000-sheet_2: -1458322163027544500
+      Brown_MICRO_CLEAN_WEST_000-sheet_3: 8716856771514039426
+      Brown_MICRO_CLEAN_WEST_000-sheet_4: -7610375756601980379
+      Brown_MICRO_CLEAN_WEST_000-sheet_5: 4813817913808644729
+      Brown_MICRO_CLEAN_WEST_000-sheet_6: 480012720540086493
+      Brown_MICRO_CLEAN_WEST_000-sheet_7: 339062966473710097
+      Brown_MICRO_CLEAN_WEST_000-sheet_8: 8625004883315178549
+      Brown_MICRO_CLEAN_WEST_000-sheet_9: -3578344916037440615
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

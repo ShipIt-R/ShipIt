@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Blue_CAMPER_Wreck_000-sheet_0: 7286196735554283373
+      Blue_CAMPER_Wreck_000-sheet_1: -4952215583556537947
+      Blue_CAMPER_Wreck_000-sheet_2: 7252077283103684869
+      Blue_CAMPER_Wreck_000-sheet_3: 4188484401797050118
+      Blue_CAMPER_Wreck_000-sheet_4: -1545345325622362220
+      Blue_CAMPER_Wreck_000-sheet_5: 7013917015856076077
+      Blue_CAMPER_Wreck_000-sheet_6: -1632876671587134649
+      Blue_CAMPER_Wreck_000-sheet_7: -9167403836754774808
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Red_MINIVAN_Wreck_000-sheet_0: 7844318272829453036
+      Red_MINIVAN_Wreck_000-sheet_1: 9130357140308824361
+      Red_MINIVAN_Wreck_000-sheet_2: 2946143282325692044
+      Red_MINIVAN_Wreck_000-sheet_3: -6154309052520794472
+      Red_MINIVAN_Wreck_000-sheet_4: 6558586853909373445
+      Red_MINIVAN_Wreck_000-sheet_5: 3293246270534908638
+      Red_MINIVAN_Wreck_000-sheet_6: 7384126939525341237
+      Red_MINIVAN_Wreck_000-sheet_7: -499241703873703410
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

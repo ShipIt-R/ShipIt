@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_SPORT_CLEAN_EAST_000-sheet_0: -1980618117262212732
+      Magenta_SPORT_CLEAN_EAST_000-sheet_1: -1512022641987234346
+      Magenta_SPORT_CLEAN_EAST_000-sheet_10: -4065731791626016872
+      Magenta_SPORT_CLEAN_EAST_000-sheet_11: 3516930206138181107
+      Magenta_SPORT_CLEAN_EAST_000-sheet_2: 4097030808540717653
+      Magenta_SPORT_CLEAN_EAST_000-sheet_3: 1466791775309622583
+      Magenta_SPORT_CLEAN_EAST_000-sheet_4: 5567717009610889687
+      Magenta_SPORT_CLEAN_EAST_000-sheet_5: -6380271486688275355
+      Magenta_SPORT_CLEAN_EAST_000-sheet_6: -8331996762549515414
+      Magenta_SPORT_CLEAN_EAST_000-sheet_7: 8219848173825982275
+      Magenta_SPORT_CLEAN_EAST_000-sheet_8: 90117275776326769
+      Magenta_SPORT_CLEAN_EAST_000-sheet_9: -303946264017964382
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

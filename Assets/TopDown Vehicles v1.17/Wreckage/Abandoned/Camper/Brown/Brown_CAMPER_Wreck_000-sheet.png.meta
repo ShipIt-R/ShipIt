@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Brown_CAMPER_Wreck_000-sheet_0: -409178467947172739
+      Brown_CAMPER_Wreck_000-sheet_1: 5549383143162388017
+      Brown_CAMPER_Wreck_000-sheet_2: -4937809277875733149
+      Brown_CAMPER_Wreck_000-sheet_3: 1338393964127551097
+      Brown_CAMPER_Wreck_000-sheet_4: -6717253243245318256
+      Brown_CAMPER_Wreck_000-sheet_5: 7305808393989124903
+      Brown_CAMPER_Wreck_000-sheet_6: 7650224672979809168
+      Brown_CAMPER_Wreck_000-sheet_7: -901471119824635818
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

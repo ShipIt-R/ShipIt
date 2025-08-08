@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Black_MICRO_Wreck_007_0: -4219105343725303500
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

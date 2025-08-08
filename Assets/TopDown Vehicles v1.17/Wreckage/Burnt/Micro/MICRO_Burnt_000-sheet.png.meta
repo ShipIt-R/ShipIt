@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MICRO_Burnt_000-sheet_0: 7949205421312294297
+      MICRO_Burnt_000-sheet_1: -7323582486107185364
+      MICRO_Burnt_000-sheet_2: -721233859145203476
+      MICRO_Burnt_000-sheet_3: -8324918149079659446
+      MICRO_Burnt_000-sheet_4: -5673439725062504201
+      MICRO_Burnt_000-sheet_5: 3977577132091122620
+      MICRO_Burnt_000-sheet_6: -3727767552619250827
+      MICRO_Burnt_000-sheet_7: 2356557885949263559
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

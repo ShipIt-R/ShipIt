@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Yellow_PICKUP_Wreck_000-sheet_0: -7506563963681274528
+      Yellow_PICKUP_Wreck_000-sheet_1: -8108270285543337558
+      Yellow_PICKUP_Wreck_000-sheet_2: -1229237379647272835
+      Yellow_PICKUP_Wreck_000-sheet_3: -31695450721152547
+      Yellow_PICKUP_Wreck_000-sheet_4: -4292024253539912623
+      Yellow_PICKUP_Wreck_000-sheet_5: -775959244738087786
+      Yellow_PICKUP_Wreck_000-sheet_6: 5505371327290422201
+      Yellow_PICKUP_Wreck_000-sheet_7: 3074604471419728197
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

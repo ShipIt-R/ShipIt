@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Blue_JEEP_CLEAN_SOUTHEAST_005_0: 6670976271839353078
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Green_COUPE_CLEAN_NORTH_000-sheet_0: -2754381181672047366
+      Green_COUPE_CLEAN_NORTH_000-sheet_1: -4118781265010998966
+      Green_COUPE_CLEAN_NORTH_000-sheet_10: 4202207940180526207
+      Green_COUPE_CLEAN_NORTH_000-sheet_11: 6852615616312503080
+      Green_COUPE_CLEAN_NORTH_000-sheet_2: 8212102518116120051
+      Green_COUPE_CLEAN_NORTH_000-sheet_3: 4229121658099324903
+      Green_COUPE_CLEAN_NORTH_000-sheet_4: 8947338097081041584
+      Green_COUPE_CLEAN_NORTH_000-sheet_5: 31932493467726532
+      Green_COUPE_CLEAN_NORTH_000-sheet_6: -5018233402895735045
+      Green_COUPE_CLEAN_NORTH_000-sheet_7: -1800837111512303676
+      Green_COUPE_CLEAN_NORTH_000-sheet_8: -343678447007116826
+      Green_COUPE_CLEAN_NORTH_000-sheet_9: 782899150434405330
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

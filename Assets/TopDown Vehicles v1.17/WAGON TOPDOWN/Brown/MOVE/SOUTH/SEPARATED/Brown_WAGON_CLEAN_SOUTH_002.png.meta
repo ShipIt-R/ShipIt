@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Brown_WAGON_CLEAN_SOUTH_002_0: -7542390120844783104
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VAN_Burnt_007_0: 429903010215100890
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

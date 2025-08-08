@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Brown_LUXURY_CLEAN_NORTHEAST_006_0: -37859617516245660
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

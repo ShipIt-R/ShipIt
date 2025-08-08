@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Black_BOXTRUCK_CLEAN_8D_000-sheet_0: -5063257070167557339
+      Black_BOXTRUCK_CLEAN_8D_000-sheet_1: 822763640597843307
+      Black_BOXTRUCK_CLEAN_8D_000-sheet_2: -4302465983839000978
+      Black_BOXTRUCK_CLEAN_8D_000-sheet_3: -7177408481334294195
+      Black_BOXTRUCK_CLEAN_8D_000-sheet_4: -1396143566519555922
+      Black_BOXTRUCK_CLEAN_8D_000-sheet_5: -1814750717612395525
+      Black_BOXTRUCK_CLEAN_8D_000-sheet_6: -112779958013196057
+      Black_BOXTRUCK_CLEAN_8D_000-sheet_7: 6958569194618429824
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Black_CAMPER_CLEAN_NORTH_005_0: -381446596498561422
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

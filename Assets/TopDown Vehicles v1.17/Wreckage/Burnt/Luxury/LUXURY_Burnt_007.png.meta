@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      LUXURY_Burnt_007_0: -2879238104075425032
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

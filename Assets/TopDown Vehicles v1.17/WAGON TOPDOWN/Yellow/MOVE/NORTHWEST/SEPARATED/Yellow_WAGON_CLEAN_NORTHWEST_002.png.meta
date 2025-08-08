@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Yellow_WAGON_CLEAN_NORTHWEST_002_0: -4827362644485940222
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

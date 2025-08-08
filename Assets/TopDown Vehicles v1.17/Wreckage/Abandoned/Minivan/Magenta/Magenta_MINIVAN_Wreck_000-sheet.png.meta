@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_MINIVAN_Wreck_000-sheet_0: -2742007490573618577
+      Magenta_MINIVAN_Wreck_000-sheet_1: 4383236007114441591
+      Magenta_MINIVAN_Wreck_000-sheet_2: -2699878433944700218
+      Magenta_MINIVAN_Wreck_000-sheet_3: -2234280692792953408
+      Magenta_MINIVAN_Wreck_000-sheet_4: -420141133567450260
+      Magenta_MINIVAN_Wreck_000-sheet_5: -1708245104295535368
+      Magenta_MINIVAN_Wreck_000-sheet_6: 2870205695322024590
+      Magenta_MINIVAN_Wreck_000-sheet_7: -3564136347878356148
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

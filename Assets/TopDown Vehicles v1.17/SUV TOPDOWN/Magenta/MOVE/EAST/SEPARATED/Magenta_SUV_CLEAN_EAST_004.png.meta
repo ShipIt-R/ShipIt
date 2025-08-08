@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_SUV_CLEAN_EAST_004_0: -1585006255477623445
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

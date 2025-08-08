@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      COUPE_Burnt_000-sheet_0: 2402042467195531321
+      COUPE_Burnt_000-sheet_1: -5906939629706882255
+      COUPE_Burnt_000-sheet_2: -2319771987199255218
+      COUPE_Burnt_000-sheet_3: -6709503954224314780
+      COUPE_Burnt_000-sheet_4: -147673920678685518
+      COUPE_Burnt_000-sheet_5: 3800855800398309001
+      COUPE_Burnt_000-sheet_6: 3250008200956583168
+      COUPE_Burnt_000-sheet_7: 3687388461520890453
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

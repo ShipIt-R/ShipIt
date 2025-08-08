@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Yellow_BUS_Wreck_004_0: -7678319532192965268
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_SEDAN_CLEAN_8D_000-sheet_0: -6911480394190250261
+      Magenta_SEDAN_CLEAN_8D_000-sheet_1: -8299679510254624878
+      Magenta_SEDAN_CLEAN_8D_000-sheet_2: -2837054305676634191
+      Magenta_SEDAN_CLEAN_8D_000-sheet_3: -4421132081233708174
+      Magenta_SEDAN_CLEAN_8D_000-sheet_4: -1617487252654717997
+      Magenta_SEDAN_CLEAN_8D_000-sheet_5: -31751586853572188
+      Magenta_SEDAN_CLEAN_8D_000-sheet_6: 2519408565823260104
+      Magenta_SEDAN_CLEAN_8D_000-sheet_7: 8217095766368395831
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

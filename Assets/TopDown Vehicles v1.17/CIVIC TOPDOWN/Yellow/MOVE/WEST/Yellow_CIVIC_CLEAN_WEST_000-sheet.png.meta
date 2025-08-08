@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Yellow_CIVIC_CLEAN_WEST_000-sheet_0: -1207836757464037048
+      Yellow_CIVIC_CLEAN_WEST_000-sheet_1: -4292359935747451894
+      Yellow_CIVIC_CLEAN_WEST_000-sheet_10: 7829096657632805530
+      Yellow_CIVIC_CLEAN_WEST_000-sheet_11: -1338702836225508833
+      Yellow_CIVIC_CLEAN_WEST_000-sheet_2: -2719480897888694925
+      Yellow_CIVIC_CLEAN_WEST_000-sheet_3: 2343685983823259461
+      Yellow_CIVIC_CLEAN_WEST_000-sheet_4: 7818398290811879165
+      Yellow_CIVIC_CLEAN_WEST_000-sheet_5: 7345107806125863955
+      Yellow_CIVIC_CLEAN_WEST_000-sheet_6: 3266641585900726192
+      Yellow_CIVIC_CLEAN_WEST_000-sheet_7: 1163919762170487362
+      Yellow_CIVIC_CLEAN_WEST_000-sheet_8: 5181481563624504944
+      Yellow_CIVIC_CLEAN_WEST_000-sheet_9: 4162393635778331887
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

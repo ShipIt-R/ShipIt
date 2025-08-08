@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Black_HatchBack_Wreck_000-sheet_0: 3111885201703367972
+      Black_HatchBack_Wreck_000-sheet_1: 8645968176370019340
+      Black_HatchBack_Wreck_000-sheet_2: 3413599401887529241
+      Black_HatchBack_Wreck_000-sheet_3: 3961663118720817827
+      Black_HatchBack_Wreck_000-sheet_4: 4590555077683602006
+      Black_HatchBack_Wreck_000-sheet_5: 9221756174367642106
+      Black_HatchBack_Wreck_000-sheet_6: -6197939980325295916
+      Black_HatchBack_Wreck_000-sheet_7: 1280253922474631567
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

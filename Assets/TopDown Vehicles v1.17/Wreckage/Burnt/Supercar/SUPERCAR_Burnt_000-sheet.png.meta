@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SUPERCAR_Burnt_000-sheet_0: 4015244209258487786
+      SUPERCAR_Burnt_000-sheet_1: 4148183372108290628
+      SUPERCAR_Burnt_000-sheet_2: 3510927749229459583
+      SUPERCAR_Burnt_000-sheet_3: 7433072525419598316
+      SUPERCAR_Burnt_000-sheet_4: -5044491823217806811
+      SUPERCAR_Burnt_000-sheet_5: -803741562029524748
+      SUPERCAR_Burnt_000-sheet_6: -2752125377232784456
+      SUPERCAR_Burnt_000-sheet_7: -9000718469927425716
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

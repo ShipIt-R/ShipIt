@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_SEDAN_Wreck_000-sheet_0: -3442441846742975676
+      Magenta_SEDAN_Wreck_000-sheet_1: 1534452578347644922
+      Magenta_SEDAN_Wreck_000-sheet_2: -1544952743931450550
+      Magenta_SEDAN_Wreck_000-sheet_3: -5939104273746842350
+      Magenta_SEDAN_Wreck_000-sheet_4: 4059241328273406390
+      Magenta_SEDAN_Wreck_000-sheet_5: -4087241965413253437
+      Magenta_SEDAN_Wreck_000-sheet_6: -8311460996329002187
+      Magenta_SEDAN_Wreck_000-sheet_7: -4863046395306999821
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

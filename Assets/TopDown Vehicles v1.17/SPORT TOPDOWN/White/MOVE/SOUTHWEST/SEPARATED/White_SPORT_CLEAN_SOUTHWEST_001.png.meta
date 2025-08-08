@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      White_SPORT_CLEAN_SOUTHWEST_001_0: 8255797552620185524
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

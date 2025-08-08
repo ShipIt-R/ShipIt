@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      COUPE_Burnt_004_0: -5319544494431157420
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

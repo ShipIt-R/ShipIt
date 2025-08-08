@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Brown_COUPE_CLEAN_SOUTH_000-sheet_0: 7499080190305597200
+      Brown_COUPE_CLEAN_SOUTH_000-sheet_1: -7804202586839174019
+      Brown_COUPE_CLEAN_SOUTH_000-sheet_10: -1447845408533028940
+      Brown_COUPE_CLEAN_SOUTH_000-sheet_11: -1711139330430968412
+      Brown_COUPE_CLEAN_SOUTH_000-sheet_2: 7523977064595891347
+      Brown_COUPE_CLEAN_SOUTH_000-sheet_3: 9131804184747753170
+      Brown_COUPE_CLEAN_SOUTH_000-sheet_4: -225253035491140679
+      Brown_COUPE_CLEAN_SOUTH_000-sheet_5: 6727143102152869440
+      Brown_COUPE_CLEAN_SOUTH_000-sheet_6: 249923081720297156
+      Brown_COUPE_CLEAN_SOUTH_000-sheet_7: 3608073142445192267
+      Brown_COUPE_CLEAN_SOUTH_000-sheet_8: -467821898208877455
+      Brown_COUPE_CLEAN_SOUTH_000-sheet_9: -6606424136869867985
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Yellow_MICRO_CLEAN_8D_000-sheet_0: 5514069214174055113
+      Yellow_MICRO_CLEAN_8D_000-sheet_1: -183539165299156792
+      Yellow_MICRO_CLEAN_8D_000-sheet_2: -6262259921900996850
+      Yellow_MICRO_CLEAN_8D_000-sheet_3: -3076677709588901170
+      Yellow_MICRO_CLEAN_8D_000-sheet_4: -4058417245993829338
+      Yellow_MICRO_CLEAN_8D_000-sheet_5: -7763716767511892837
+      Yellow_MICRO_CLEAN_8D_000-sheet_6: 9060055405646961564
+      Yellow_MICRO_CLEAN_8D_000-sheet_7: 7249608061223069862
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

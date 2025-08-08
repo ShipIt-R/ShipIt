@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      EDAN_Burnt_007_0: 628800379115814989
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

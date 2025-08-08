@@ -7,7 +7,10 @@ using UnityEngine;
 public class moveScript : MonoBehaviour
 {
     // Referenz auf PathCreator, um auf pathPoints zuzugreifen
-    public PathCreator pathCreator;
+    private PathCreator pathCreator;
+
+    // Erstelle eine Referenz auf das LogicScript
+    private LogicScript logicScript;
 
     // Geschwindigkeit und ob man sich bewegt
     public float speed;
@@ -21,6 +24,8 @@ public class moveScript : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        pathCreator = GetComponent<PathCreator>();
+        logicScript = GameObject.FindGameObjectWithTag("LogicSystem").GetComponent<LogicScript>();
         // Warten, bis pathPoints gesetzt ist
         if (pathCreator != null && pathCreator.GetPathPoints() != null && pathCreator.GetPathPoints().Count > 0)
         {
@@ -59,9 +64,11 @@ public class moveScript : MonoBehaviour
         {
             if (point == pathPoints.Count - 1)
             {
-                // Am Ende angekommen: zurück zum Anfang
-                point = 0;
-                transform.position = pathPoints[0];
+                // Wenn der letzte Punkt erreicht ist, dann lade das Gold ab
+                logicScript.dumpGold();
+                logicScript.deliverydestroyed();
+                // Wenn der letzte Punkt erreicht ist, dann lösche den Lastwagen
+                Destroy(gameObject);
             }
             else
             {

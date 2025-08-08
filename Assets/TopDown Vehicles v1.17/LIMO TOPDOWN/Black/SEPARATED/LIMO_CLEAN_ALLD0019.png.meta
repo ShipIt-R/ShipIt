@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      LIMO_CLEAN_ALLD0019_0: -5766271673758477441
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

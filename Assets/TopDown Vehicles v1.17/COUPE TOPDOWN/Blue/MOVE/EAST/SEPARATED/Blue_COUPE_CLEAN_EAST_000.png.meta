@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Blue_COUPE_CLEAN_EAST_000_0: -5107663604062464351
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

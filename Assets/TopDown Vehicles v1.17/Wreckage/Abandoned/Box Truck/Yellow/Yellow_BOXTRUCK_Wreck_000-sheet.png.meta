@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Yellow_BOXTRUCK_Wreck_000-sheet_0: -5981497364112163850
+      Yellow_BOXTRUCK_Wreck_000-sheet_1: 7217819833078158611
+      Yellow_BOXTRUCK_Wreck_000-sheet_2: 3587360727277407525
+      Yellow_BOXTRUCK_Wreck_000-sheet_3: 4595383932233299911
+      Yellow_BOXTRUCK_Wreck_000-sheet_4: -4816997865342697269
+      Yellow_BOXTRUCK_Wreck_000-sheet_5: 548790111813373731
+      Yellow_BOXTRUCK_Wreck_000-sheet_6: -3698649704895318988
+      Yellow_BOXTRUCK_Wreck_000-sheet_7: -4015316117058182260
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

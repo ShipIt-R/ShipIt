@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Red_CIVIC_CLEAN_8D_000-sheet_0: -6607876737815577100
+      Red_CIVIC_CLEAN_8D_000-sheet_1: -4955124014642100465
+      Red_CIVIC_CLEAN_8D_000-sheet_2: 9186052500815971018
+      Red_CIVIC_CLEAN_8D_000-sheet_3: 1971453910512140190
+      Red_CIVIC_CLEAN_8D_000-sheet_4: 5479259107074096060
+      Red_CIVIC_CLEAN_8D_000-sheet_5: -4015221744667491063
+      Red_CIVIC_CLEAN_8D_000-sheet_6: -6637020740355612542
+      Red_CIVIC_CLEAN_8D_000-sheet_7: 1281158738888711131
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Red_JEEP_Wreckl_003_0: -8913626656381089774
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

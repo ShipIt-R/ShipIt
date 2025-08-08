@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Brown_VAN_Wreck_000-sheet_0: -8727708404137054602
+      Brown_VAN_Wreck_000-sheet_1: 8168902966849495633
+      Brown_VAN_Wreck_000-sheet_2: -7970255002766154159
+      Brown_VAN_Wreck_000-sheet_3: -1030851263483851202
+      Brown_VAN_Wreck_000-sheet_4: 3388787996488524301
+      Brown_VAN_Wreck_000-sheet_5: -8880864704744246913
+      Brown_VAN_Wreck_000-sheet_6: -1367729596111638680
+      Brown_VAN_Wreck_000-sheet_7: 971987384399251279
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Brown_LIMO_CLEAN_NORTHWEST_007_0: -438790569054049044
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

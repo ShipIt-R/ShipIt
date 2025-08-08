@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_SEDAN_CLEAN_WEST_000-sheet_0: -1528805776283770118
+      Magenta_SEDAN_CLEAN_WEST_000-sheet_1: -1373439863481262820
+      Magenta_SEDAN_CLEAN_WEST_000-sheet_10: 8499451806368481200
+      Magenta_SEDAN_CLEAN_WEST_000-sheet_11: -5129323647662594426
+      Magenta_SEDAN_CLEAN_WEST_000-sheet_2: -3942940716818633040
+      Magenta_SEDAN_CLEAN_WEST_000-sheet_3: 7606417063561889046
+      Magenta_SEDAN_CLEAN_WEST_000-sheet_4: 6315356672576794790
+      Magenta_SEDAN_CLEAN_WEST_000-sheet_5: -89158562357890822
+      Magenta_SEDAN_CLEAN_WEST_000-sheet_6: 4284793745616407783
+      Magenta_SEDAN_CLEAN_WEST_000-sheet_7: -367585208716070501
+      Magenta_SEDAN_CLEAN_WEST_000-sheet_8: -2602388666328645317
+      Magenta_SEDAN_CLEAN_WEST_000-sheet_9: -4664200540201197687
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

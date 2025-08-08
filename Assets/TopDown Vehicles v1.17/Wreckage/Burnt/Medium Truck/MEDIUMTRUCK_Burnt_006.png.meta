@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MEDIUMTRUCK_Burnt_006_0: 1248017125165643385
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

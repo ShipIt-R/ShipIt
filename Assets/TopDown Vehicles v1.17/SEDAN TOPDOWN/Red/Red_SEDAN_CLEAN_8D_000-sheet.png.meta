@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Red_SEDAN_CLEAN_8D_000-sheet_0: -631592593242346468
+      Red_SEDAN_CLEAN_8D_000-sheet_1: -706064762550510709
+      Red_SEDAN_CLEAN_8D_000-sheet_2: 5136126224084443371
+      Red_SEDAN_CLEAN_8D_000-sheet_3: -2469363270486807315
+      Red_SEDAN_CLEAN_8D_000-sheet_4: 4921661002108968724
+      Red_SEDAN_CLEAN_8D_000-sheet_5: 3763768337594133925
+      Red_SEDAN_CLEAN_8D_000-sheet_6: -5098332349986619298
+      Red_SEDAN_CLEAN_8D_000-sheet_7: 6214660284557649587
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

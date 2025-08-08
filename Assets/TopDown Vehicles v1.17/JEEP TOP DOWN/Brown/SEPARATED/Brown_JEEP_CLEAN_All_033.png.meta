@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Brown_JEEP_CLEAN_All_033_0: -3977704096329696691
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

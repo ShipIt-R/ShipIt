@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      POLICE_CLEAN_8D0000-sheet_0: 2582104542648282073
+      POLICE_CLEAN_8D0000-sheet_1: 8555517815838953599
+      POLICE_CLEAN_8D0000-sheet_2: -8575990553055632611
+      POLICE_CLEAN_8D0000-sheet_3: 5743878887638177493
+      POLICE_CLEAN_8D0000-sheet_4: 960614662047462708
+      POLICE_CLEAN_8D0000-sheet_5: -7805704485287629508
+      POLICE_CLEAN_8D0000-sheet_6: 4984519808371249652
+      POLICE_CLEAN_8D0000-sheet_7: -5430861315112750070
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

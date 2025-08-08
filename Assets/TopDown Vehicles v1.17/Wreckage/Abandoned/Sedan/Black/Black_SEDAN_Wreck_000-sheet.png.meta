@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Black_SEDAN_Wreck_000-sheet_0: -2111705917641358362
+      Black_SEDAN_Wreck_000-sheet_1: 5574180853042693117
+      Black_SEDAN_Wreck_000-sheet_2: 4089184210494814877
+      Black_SEDAN_Wreck_000-sheet_3: -4880682851862034351
+      Black_SEDAN_Wreck_000-sheet_4: -1898646624284017572
+      Black_SEDAN_Wreck_000-sheet_5: -5734981956298750551
+      Black_SEDAN_Wreck_000-sheet_6: 1764765787303868086
+      Black_SEDAN_Wreck_000-sheet_7: -1619542579497610671
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

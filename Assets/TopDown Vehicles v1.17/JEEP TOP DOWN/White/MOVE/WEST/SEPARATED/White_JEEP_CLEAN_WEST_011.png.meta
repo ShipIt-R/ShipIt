@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      White_JEEP_CLEAN_WEST_011_0: 3427357063627715826
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

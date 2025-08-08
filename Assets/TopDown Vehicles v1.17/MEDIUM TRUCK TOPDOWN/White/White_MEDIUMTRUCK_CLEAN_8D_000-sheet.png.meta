@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      White_MEDIUMTRUCK_CLEAN_8D_000-sheet_0: 7770555844308663615
+      White_MEDIUMTRUCK_CLEAN_8D_000-sheet_1: -3185916837242551050
+      White_MEDIUMTRUCK_CLEAN_8D_000-sheet_2: 5189672945187251169
+      White_MEDIUMTRUCK_CLEAN_8D_000-sheet_3: 1676126811748570580
+      White_MEDIUMTRUCK_CLEAN_8D_000-sheet_4: -3526237990808868121
+      White_MEDIUMTRUCK_CLEAN_8D_000-sheet_5: 5691592526189015225
+      White_MEDIUMTRUCK_CLEAN_8D_000-sheet_6: -4911892227799345422
+      White_MEDIUMTRUCK_CLEAN_8D_000-sheet_7: 6086888064797901857
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

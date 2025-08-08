@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Black_BUS_Wreck_000_0: -5827211510404459852
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

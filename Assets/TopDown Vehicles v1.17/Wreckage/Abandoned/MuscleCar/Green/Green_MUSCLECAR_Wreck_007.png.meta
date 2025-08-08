@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Green_MUSCLECAR_Wreck_007_0: -3375015449596502828
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

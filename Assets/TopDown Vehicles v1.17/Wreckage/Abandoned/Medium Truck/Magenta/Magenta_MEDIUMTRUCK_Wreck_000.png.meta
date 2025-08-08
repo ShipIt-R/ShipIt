@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_MEDIUMTRUCK_Wreck_000_0: 8051536940007610171
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

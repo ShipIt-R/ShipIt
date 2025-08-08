@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      JEEP_Burnt_003_0: 5028929220316101115
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

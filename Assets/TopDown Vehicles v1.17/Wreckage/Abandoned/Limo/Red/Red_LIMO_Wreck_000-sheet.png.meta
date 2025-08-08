@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Red_LIMO_Wreck_000-sheet_0: -1179574008542080711
+      Red_LIMO_Wreck_000-sheet_1: 4058502987478741219
+      Red_LIMO_Wreck_000-sheet_2: -264318025079094778
+      Red_LIMO_Wreck_000-sheet_3: 3488705215339184852
+      Red_LIMO_Wreck_000-sheet_4: 5045316033368803991
+      Red_LIMO_Wreck_000-sheet_5: -8402807779557173066
+      Red_LIMO_Wreck_000-sheet_6: -7621175409992785465
+      Red_LIMO_Wreck_000-sheet_7: -4489195371980313428
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

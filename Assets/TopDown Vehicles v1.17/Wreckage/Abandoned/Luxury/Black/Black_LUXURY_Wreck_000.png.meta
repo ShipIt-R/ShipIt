@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Black_LUXURY_Wreck_000_0: 2859265522917979781
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

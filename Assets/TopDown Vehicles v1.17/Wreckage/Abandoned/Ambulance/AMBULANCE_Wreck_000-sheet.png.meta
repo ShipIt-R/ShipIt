@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AMBULANCE_Wreck_000-sheet_0: -5433309105262440176
+      AMBULANCE_Wreck_000-sheet_1: -8357302303403377735
+      AMBULANCE_Wreck_000-sheet_2: -5293974298042530553
+      AMBULANCE_Wreck_000-sheet_3: -8789323160666458110
+      AMBULANCE_Wreck_000-sheet_4: 7468731105638219570
+      AMBULANCE_Wreck_000-sheet_5: -6963570888202269521
+      AMBULANCE_Wreck_000-sheet_6: 8858743031701834392
+      AMBULANCE_Wreck_000-sheet_7: 4536272510856062562
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

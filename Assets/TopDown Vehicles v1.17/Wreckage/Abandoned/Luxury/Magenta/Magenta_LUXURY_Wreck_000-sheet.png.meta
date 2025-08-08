@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_LUXURY_Wreck_000-sheet_0: -3566468647732277291
+      Magenta_LUXURY_Wreck_000-sheet_1: 5725200879393303939
+      Magenta_LUXURY_Wreck_000-sheet_2: 4637052651040886748
+      Magenta_LUXURY_Wreck_000-sheet_3: -7465238052974747532
+      Magenta_LUXURY_Wreck_000-sheet_4: -8756407542819317720
+      Magenta_LUXURY_Wreck_000-sheet_5: -8070259027841777460
+      Magenta_LUXURY_Wreck_000-sheet_6: 636817206899097287
+      Magenta_LUXURY_Wreck_000-sheet_7: -7918502127427677542
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

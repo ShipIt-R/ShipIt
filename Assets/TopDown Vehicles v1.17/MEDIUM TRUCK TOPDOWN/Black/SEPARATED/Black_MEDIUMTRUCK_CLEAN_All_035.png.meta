@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Black_MEDIUMTRUCK_CLEAN_All_035_0: -4942345448910605488
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

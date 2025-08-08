@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      White_SEDAN_Wreck_005_0: 2049280995703692023
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

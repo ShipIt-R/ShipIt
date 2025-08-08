@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Blue_VAN_Wreckl_006_0: -6984201131594621302
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

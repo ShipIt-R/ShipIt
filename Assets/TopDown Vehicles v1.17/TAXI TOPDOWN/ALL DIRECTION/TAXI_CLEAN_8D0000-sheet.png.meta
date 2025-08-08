@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TAXI_CLEAN_8D0000-sheet_0: -5441294614873533026
+      TAXI_CLEAN_8D0000-sheet_1: 5184685874284470614
+      TAXI_CLEAN_8D0000-sheet_2: 6285118880527915231
+      TAXI_CLEAN_8D0000-sheet_3: 4984617170569845418
+      TAXI_CLEAN_8D0000-sheet_4: -2785404165975477314
+      TAXI_CLEAN_8D0000-sheet_5: -4307323765834134142
+      TAXI_CLEAN_8D0000-sheet_6: -4805044816316651029
+      TAXI_CLEAN_8D0000-sheet_7: -4225858854249972295
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -18,6 +18,10 @@ public class PathCreator : MonoBehaviour
 
     void Start()
     {
+        // Weil es ein Prefab ist muss ich die GameObjects mit Tags suchen
+        tilemap = GameObject.FindGameObjectWithTag("FloorTilemap").GetComponent<Tilemap>();
+        pathOverlayTilemap = GameObject.FindGameObjectWithTag("OverlayTilemap").GetComponent<Tilemap>();
+        // Hänge den Startpunkt an den Pfad an
         Vector3Int stallpos = new Vector3Int(14, 0, 0);
         pathPoints.Add(tilemap.GetCellCenterWorld(stallpos));
         AddPathPoint(stallpos);
@@ -25,7 +29,7 @@ public class PathCreator : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButtonDown(0) && !finished)
         {
             Vector3 mouseWorldPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             Vector3Int cellPos = tilemap.WorldToCell(mouseWorldPos);
@@ -42,12 +46,12 @@ public class PathCreator : MonoBehaviour
             {
                 Vector3 last = pathPoints[pathPoints.Count - 1];
                 Vector3 diff = tileCenter - last;
-                if (Mathf.Abs(diff.x) > 0 && Mathf.Abs(diff.y) > 0)
-                    return; // Diagonal, also nicht hinzufügen
+                if (Mathf.Abs(diff.x) > 0 && Mathf.Abs(diff.y) > 0) // Wenn es einen Unterschied in der x oder y Koordinate gibt zwischen dem 1. und 2. Punkt wird der Punkt nicht hinzugefügt
+                    return;
             }
 
-            pathPoints.Add(tileCenter);
-            AddPathPoint(cellPos);
+            pathPoints.Add(tileCenter); // Füge das Tile dem Pfad hinzu
+            AddPathPoint(cellPos); // Füge Das Tile zum Overlay hinzu
 
             // Wenn ein Punkt gesetzt wurde, prüfen ob es ein Endfeld ist
             if (pathPoints.Count > 1)
@@ -58,34 +62,33 @@ public class PathCreator : MonoBehaviour
                     // Pfad ist fertig
                     Debug.Log("Pfad abgeschlossen!");
                     ClearVisualPath();
-                    finished = true;
+                    finished = true; // Der Pfad wird als fertig markiert
                     return;
                 }
             }
         }
     }
 
-    // Dies Passiert wenn der Pfad ungültig ist.
-    private void ClearPath()
+    private void ClearPath() // Diese Funktion kann benutzt werden um den Pfad zu löschen
     {
         pathPoints.Clear();
         ClearVisualPath();
         Debug.Log("Pfad gelöscht!");
     }
 
-    void AddPathPoint(Vector3Int cellPos)
+    void AddPathPoint(Vector3Int cellPos) // Funktion um das Overlay zu setzen und die Pfadpunktliste zu aktualisieren
     {
         pathCells.Add(cellPos);
         pathOverlayTilemap.SetTile(cellPos, pathVisualTile);
     }
 
-    void ClearVisualPath()
+    void ClearVisualPath() // Das Overlay wird gelöscht
     {
-        foreach (var cell in pathCells)
+        foreach (var cell in pathCells) // Jedes Tile der Liste wird mit null überschrieben
             pathOverlayTilemap.SetTile(cell, null);
         pathCells.Clear();
     }
-    public List<Vector3> GetPathPoints()
+    public List<Vector3> GetPathPoints() // Der Pfad wird zurückgegeben, aber nur wenn das Pfadzeichnen fertig ist
     {
         if (finished) 
         {

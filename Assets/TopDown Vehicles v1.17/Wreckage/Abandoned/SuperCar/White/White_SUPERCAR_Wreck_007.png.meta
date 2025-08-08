@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      White_SUPERCAR_Wreck_007_0: 7843909974184562538
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

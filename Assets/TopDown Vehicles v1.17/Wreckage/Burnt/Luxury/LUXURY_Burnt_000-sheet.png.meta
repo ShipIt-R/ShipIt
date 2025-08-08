@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      LUXURY_Burnt_000-sheet_0: -5680138921860675482
+      LUXURY_Burnt_000-sheet_1: 8504526568728610777
+      LUXURY_Burnt_000-sheet_2: 4300300006612711037
+      LUXURY_Burnt_000-sheet_3: 4180150770759774809
+      LUXURY_Burnt_000-sheet_4: -8403341128867828902
+      LUXURY_Burnt_000-sheet_5: -540495174782268159
+      LUXURY_Burnt_000-sheet_6: -1356308145191834455
+      LUXURY_Burnt_000-sheet_7: 1294917215678454153
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

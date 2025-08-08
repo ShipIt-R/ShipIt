@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Red_SUV_CLEAN_8D_000-sheet_0: -3346583478270124658
+      Red_SUV_CLEAN_8D_000-sheet_1: -970579345783397612
+      Red_SUV_CLEAN_8D_000-sheet_2: 1509804800420462220
+      Red_SUV_CLEAN_8D_000-sheet_3: 2560031113330936932
+      Red_SUV_CLEAN_8D_000-sheet_4: 687476031059797884
+      Red_SUV_CLEAN_8D_000-sheet_5: 2112652314940190753
+      Red_SUV_CLEAN_8D_000-sheet_6: -8621619414866160953
+      Red_SUV_CLEAN_8D_000-sheet_7: 8116963655226878098
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

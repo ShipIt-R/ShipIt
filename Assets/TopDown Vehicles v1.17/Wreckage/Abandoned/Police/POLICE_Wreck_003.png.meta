@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      POLICE_Wreck_003_0: -2786091527685645184
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

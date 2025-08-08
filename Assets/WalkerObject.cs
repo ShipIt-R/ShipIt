@@ -9,7 +9,7 @@ public class WalkerObject
     public bool moving = true;
     public int detour;
 
-    public WalkerObject(Vector2Int pos, float chanceToChange, int Detour)
+    public WalkerObject(Vector2Int pos, float chanceToChange, int Detour) // constructor
     {
         position = pos;
         curve_change_value = chanceToChange;

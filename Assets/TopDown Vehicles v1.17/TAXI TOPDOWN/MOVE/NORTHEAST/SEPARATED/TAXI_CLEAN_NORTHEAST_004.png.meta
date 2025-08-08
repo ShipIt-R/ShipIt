@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TAXI_CLEAN_NORTHEAST_004_0: -4438725963168098631
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Black_BOXTRUCK_Wreck_004_0: 3237980105085067080
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

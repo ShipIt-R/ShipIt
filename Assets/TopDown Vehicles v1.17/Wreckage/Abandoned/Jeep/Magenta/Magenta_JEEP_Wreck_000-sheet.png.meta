@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_JEEP_Wreck_000-sheet_0: -3392053934122942341
+      Magenta_JEEP_Wreck_000-sheet_1: 1138963703760625392
+      Magenta_JEEP_Wreck_000-sheet_2: -6813739364795288037
+      Magenta_JEEP_Wreck_000-sheet_3: -4479102394934833060
+      Magenta_JEEP_Wreck_000-sheet_4: -4390406286969518603
+      Magenta_JEEP_Wreck_000-sheet_5: -5208954959208722918
+      Magenta_JEEP_Wreck_000-sheet_6: 6411796201461868755
+      Magenta_JEEP_Wreck_000-sheet_7: 1587730948168076265
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

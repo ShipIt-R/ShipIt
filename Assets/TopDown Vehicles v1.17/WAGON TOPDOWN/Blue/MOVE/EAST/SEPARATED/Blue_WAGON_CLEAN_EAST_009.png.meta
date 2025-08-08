@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Blue_WAGON_CLEAN_EAST_009_0: 1142401911990683753
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

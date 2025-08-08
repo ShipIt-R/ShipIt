@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AMBULANCE_Burnt_006_0: -4111373794712908371
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

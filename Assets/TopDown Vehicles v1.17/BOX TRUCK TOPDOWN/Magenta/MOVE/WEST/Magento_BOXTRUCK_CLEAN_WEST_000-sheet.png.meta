@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magento_BOXTRUCK_CLEAN_WEST_000-sheet_0: -5044044756695930515
+      Magento_BOXTRUCK_CLEAN_WEST_000-sheet_1: -5465520820344332450
+      Magento_BOXTRUCK_CLEAN_WEST_000-sheet_10: 3967709473172508578
+      Magento_BOXTRUCK_CLEAN_WEST_000-sheet_11: -7332525655785625830
+      Magento_BOXTRUCK_CLEAN_WEST_000-sheet_2: 885370225647078518
+      Magento_BOXTRUCK_CLEAN_WEST_000-sheet_3: -1443472941733980465
+      Magento_BOXTRUCK_CLEAN_WEST_000-sheet_4: 8342618886470106187
+      Magento_BOXTRUCK_CLEAN_WEST_000-sheet_5: -2153314924986844669
+      Magento_BOXTRUCK_CLEAN_WEST_000-sheet_6: -6633863654600329342
+      Magento_BOXTRUCK_CLEAN_WEST_000-sheet_7: 878131004677943199
+      Magento_BOXTRUCK_CLEAN_WEST_000-sheet_8: -5265717784131248235
+      Magento_BOXTRUCK_CLEAN_WEST_000-sheet_9: 6595159279855962352
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

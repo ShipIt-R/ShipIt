@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_VAN_CLEAN_EAST_005_0: -3187479874485509912
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

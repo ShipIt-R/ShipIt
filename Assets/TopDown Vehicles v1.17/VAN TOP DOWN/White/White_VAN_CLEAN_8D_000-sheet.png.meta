@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      White_VAN_CLEAN_8D_000-sheet_0: -9211788597649103142
+      White_VAN_CLEAN_8D_000-sheet_1: 1214096751724227730
+      White_VAN_CLEAN_8D_000-sheet_2: -6372610696859496211
+      White_VAN_CLEAN_8D_000-sheet_3: -452983993755190831
+      White_VAN_CLEAN_8D_000-sheet_4: 5184948699510850002
+      White_VAN_CLEAN_8D_000-sheet_5: -6428253114051832654
+      White_VAN_CLEAN_8D_000-sheet_6: -3228837938630178829
+      White_VAN_CLEAN_8D_000-sheet_7: -1888179479039840762
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

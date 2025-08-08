@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magento_BOXTRUCK_CLEAN_EAST_001_0: 2797849418159725165
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

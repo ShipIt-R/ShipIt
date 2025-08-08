@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Green_SPORT_Wreck_000-sheet_0: 8068324916567028535
+      Green_SPORT_Wreck_000-sheet_1: -4343611912196904459
+      Green_SPORT_Wreck_000-sheet_2: -5476030692293842646
+      Green_SPORT_Wreck_000-sheet_3: 1304563938765127885
+      Green_SPORT_Wreck_000-sheet_4: 4048079678922462625
+      Green_SPORT_Wreck_000-sheet_5: -2102552432239577211
+      Green_SPORT_Wreck_000-sheet_6: -4729666564314379883
+      Green_SPORT_Wreck_000-sheet_7: -3991036258044347196
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

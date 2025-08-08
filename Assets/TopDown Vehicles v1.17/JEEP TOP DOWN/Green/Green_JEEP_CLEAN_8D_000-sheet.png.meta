@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Green_JEEP_CLEAN_8D_000-sheet_0: 6121386209373344120
+      Green_JEEP_CLEAN_8D_000-sheet_1: 2846569344594867271
+      Green_JEEP_CLEAN_8D_000-sheet_2: 6371621933367463192
+      Green_JEEP_CLEAN_8D_000-sheet_3: -2509637849084065358
+      Green_JEEP_CLEAN_8D_000-sheet_4: -4193593311165853925
+      Green_JEEP_CLEAN_8D_000-sheet_5: 2687556637491262436
+      Green_JEEP_CLEAN_8D_000-sheet_6: -6641775153909946381
+      Green_JEEP_CLEAN_8D_000-sheet_7: 195394796105901891
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

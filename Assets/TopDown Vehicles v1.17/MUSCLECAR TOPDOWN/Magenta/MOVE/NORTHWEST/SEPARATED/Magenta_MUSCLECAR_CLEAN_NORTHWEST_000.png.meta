@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_MUSCLECAR_CLEAN_NORTHWEST_000_0: -7947299445935422290
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

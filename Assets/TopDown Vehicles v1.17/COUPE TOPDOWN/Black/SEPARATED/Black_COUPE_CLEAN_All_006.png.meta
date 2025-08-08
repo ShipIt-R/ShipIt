@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Black_COUPE_CLEAN_All_006_0: 869907360416313843
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

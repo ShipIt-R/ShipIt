@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Green_CAMPER_CLEAN_SOUTH_002_0: -6112352447300164992
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

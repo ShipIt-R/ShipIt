@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SUPERCAR_Burnt_007_0: 1788263861007569102
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

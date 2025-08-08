@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Black_MICRO_Wreck_000-sheet_0: -166090673638468042
+      Black_MICRO_Wreck_000-sheet_1: -280769480610774752
+      Black_MICRO_Wreck_000-sheet_2: 3939609861095735737
+      Black_MICRO_Wreck_000-sheet_3: -4290884631459961106
+      Black_MICRO_Wreck_000-sheet_4: -8827209963653609777
+      Black_MICRO_Wreck_000-sheet_5: 7332425672511415898
+      Black_MICRO_Wreck_000-sheet_6: -7584257490852112264
+      Black_MICRO_Wreck_000-sheet_7: -3254525380936641364
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

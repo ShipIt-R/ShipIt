@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_JEEP_CLEAN_EAST_000-sheet_0: -7847854258106476247
+      Magenta_JEEP_CLEAN_EAST_000-sheet_1: -5126067682182577134
+      Magenta_JEEP_CLEAN_EAST_000-sheet_10: 5689752427989175249
+      Magenta_JEEP_CLEAN_EAST_000-sheet_11: -8364885441777155381
+      Magenta_JEEP_CLEAN_EAST_000-sheet_2: 1596444014807085172
+      Magenta_JEEP_CLEAN_EAST_000-sheet_3: 2698365585673401954
+      Magenta_JEEP_CLEAN_EAST_000-sheet_4: 201992060633601930
+      Magenta_JEEP_CLEAN_EAST_000-sheet_5: -2766845973023652982
+      Magenta_JEEP_CLEAN_EAST_000-sheet_6: -5844589000458949492
+      Magenta_JEEP_CLEAN_EAST_000-sheet_7: -6985156926951429327
+      Magenta_JEEP_CLEAN_EAST_000-sheet_8: 7558805305432204954
+      Magenta_JEEP_CLEAN_EAST_000-sheet_9: -1147091033521929438
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

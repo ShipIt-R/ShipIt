@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_LIMO_Wreck_002_0: 657642959781024896
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_SUPERCAR_Wreck_000-sheet_0: 9008179464451313538
+      Magenta_SUPERCAR_Wreck_000-sheet_1: -8426365369868265274
+      Magenta_SUPERCAR_Wreck_000-sheet_2: -2052855075340185112
+      Magenta_SUPERCAR_Wreck_000-sheet_3: -2667207194793123684
+      Magenta_SUPERCAR_Wreck_000-sheet_4: 9055999351412298279
+      Magenta_SUPERCAR_Wreck_000-sheet_5: -8119380103846862469
+      Magenta_SUPERCAR_Wreck_000-sheet_6: 3625505016725168312
+      Magenta_SUPERCAR_Wreck_000-sheet_7: 3112817925488751019
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

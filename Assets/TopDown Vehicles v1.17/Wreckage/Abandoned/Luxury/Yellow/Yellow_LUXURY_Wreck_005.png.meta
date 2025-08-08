@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Yellow_LUXURY_Wreck_005_0: -3638493109513147202
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

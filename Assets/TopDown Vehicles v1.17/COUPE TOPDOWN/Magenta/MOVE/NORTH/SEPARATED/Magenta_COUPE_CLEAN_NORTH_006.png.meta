@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_COUPE_CLEAN_NORTH_006_0: -107411192202491711
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

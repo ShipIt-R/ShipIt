@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Black_SPORT_CLEAN_WEST_000-sheet_0: -8316616959885362493
+      Black_SPORT_CLEAN_WEST_000-sheet_1: 8338120763075383474
+      Black_SPORT_CLEAN_WEST_000-sheet_10: -8409537675834777630
+      Black_SPORT_CLEAN_WEST_000-sheet_11: -1865844788642456742
+      Black_SPORT_CLEAN_WEST_000-sheet_2: -4356771713639230834
+      Black_SPORT_CLEAN_WEST_000-sheet_3: 3149178499479839866
+      Black_SPORT_CLEAN_WEST_000-sheet_4: -4757946623868006099
+      Black_SPORT_CLEAN_WEST_000-sheet_5: 6569829338179246030
+      Black_SPORT_CLEAN_WEST_000-sheet_6: 6077639088975252195
+      Black_SPORT_CLEAN_WEST_000-sheet_7: 4193739830991311020
+      Black_SPORT_CLEAN_WEST_000-sheet_8: 5359534935132252621
+      Black_SPORT_CLEAN_WEST_000-sheet_9: 8135037544335302899
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

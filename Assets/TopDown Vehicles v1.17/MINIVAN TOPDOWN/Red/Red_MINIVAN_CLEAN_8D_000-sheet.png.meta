@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Red_MINIVAN_CLEAN_8D_000-sheet_0: 2918620353031877178
+      Red_MINIVAN_CLEAN_8D_000-sheet_1: 605063232585478322
+      Red_MINIVAN_CLEAN_8D_000-sheet_2: -6883901986940738261
+      Red_MINIVAN_CLEAN_8D_000-sheet_3: -947031117808245490
+      Red_MINIVAN_CLEAN_8D_000-sheet_4: 8120188408913748453
+      Red_MINIVAN_CLEAN_8D_000-sheet_5: 3949284692743610450
+      Red_MINIVAN_CLEAN_8D_000-sheet_6: -8408302926683937789
+      Red_MINIVAN_CLEAN_8D_000-sheet_7: 6525427146954970491
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_COUPE_CLEAN_8D_000-sheet_0: -4810006640914978647
+      Magenta_COUPE_CLEAN_8D_000-sheet_1: 8712763023594028596
+      Magenta_COUPE_CLEAN_8D_000-sheet_2: 5103659106779632893
+      Magenta_COUPE_CLEAN_8D_000-sheet_3: 7258186639087814099
+      Magenta_COUPE_CLEAN_8D_000-sheet_4: -7668910023489063409
+      Magenta_COUPE_CLEAN_8D_000-sheet_5: -1792727119274895768
+      Magenta_COUPE_CLEAN_8D_000-sheet_6: 5115340756344829593
+      Magenta_COUPE_CLEAN_8D_000-sheet_7: 8155044911192684746
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

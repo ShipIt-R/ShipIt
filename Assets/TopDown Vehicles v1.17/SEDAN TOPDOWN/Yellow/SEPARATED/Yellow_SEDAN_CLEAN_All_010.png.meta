@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Yellow_SEDAN_CLEAN_All_010_0: 5982179356165873411
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Black_CIVIC_CLEAN_EAST_009_0: 2794122210639379747
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

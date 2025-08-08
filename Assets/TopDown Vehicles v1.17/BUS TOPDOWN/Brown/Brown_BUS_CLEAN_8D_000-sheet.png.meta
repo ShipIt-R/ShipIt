@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Brown_BUS_CLEAN_8D_000-sheet_0: -2281703753127610067
+      Brown_BUS_CLEAN_8D_000-sheet_1: -3064882515152980707
+      Brown_BUS_CLEAN_8D_000-sheet_2: 2239611023148777848
+      Brown_BUS_CLEAN_8D_000-sheet_3: 227104392646233975
+      Brown_BUS_CLEAN_8D_000-sheet_4: -6764093584836940360
+      Brown_BUS_CLEAN_8D_000-sheet_5: -6352727176221788604
+      Brown_BUS_CLEAN_8D_000-sheet_6: -5718333088126102269
+      Brown_BUS_CLEAN_8D_000-sheet_7: -5961748334579192693
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MEDIUMTRUCK_Burnt_000-sheet_0: -4172527917482736500
+      MEDIUMTRUCK_Burnt_000-sheet_1: -8748053067061460853
+      MEDIUMTRUCK_Burnt_000-sheet_2: -5466060564279286519
+      MEDIUMTRUCK_Burnt_000-sheet_3: -7864124567816897714
+      MEDIUMTRUCK_Burnt_000-sheet_4: -4063636110112829537
+      MEDIUMTRUCK_Burnt_000-sheet_5: 6868124646015242757
+      MEDIUMTRUCK_Burnt_000-sheet_6: -519654642714055604
+      MEDIUMTRUCK_Burnt_000-sheet_7: -7160218098587741801
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HatchBack_Burnt_001_0: 3938939517545109290
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

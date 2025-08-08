@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_SUV_CLEAN_WEST_000-sheet_0: 3712840845424290159
+      Magenta_SUV_CLEAN_WEST_000-sheet_1: 783365278532755927
+      Magenta_SUV_CLEAN_WEST_000-sheet_10: -2466472967847109683
+      Magenta_SUV_CLEAN_WEST_000-sheet_11: -4254243555858878394
+      Magenta_SUV_CLEAN_WEST_000-sheet_2: 3171727543917217698
+      Magenta_SUV_CLEAN_WEST_000-sheet_3: 27184126714602367
+      Magenta_SUV_CLEAN_WEST_000-sheet_4: 3802931415232031865
+      Magenta_SUV_CLEAN_WEST_000-sheet_5: -6868696657174411230
+      Magenta_SUV_CLEAN_WEST_000-sheet_6: 1221548636236623707
+      Magenta_SUV_CLEAN_WEST_000-sheet_7: 8580323432867784808
+      Magenta_SUV_CLEAN_WEST_000-sheet_8: -1373919762557525972
+      Magenta_SUV_CLEAN_WEST_000-sheet_9: 1966837771666122536
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_CAMPER_Wreck_000-sheet_0: 3132008445342988822
+      Magenta_CAMPER_Wreck_000-sheet_1: -5024071111976914236
+      Magenta_CAMPER_Wreck_000-sheet_2: 8202466338623534991
+      Magenta_CAMPER_Wreck_000-sheet_3: 8064902975818744523
+      Magenta_CAMPER_Wreck_000-sheet_4: 710460161978239281
+      Magenta_CAMPER_Wreck_000-sheet_5: -2277858137825886537
+      Magenta_CAMPER_Wreck_000-sheet_6: 53297400878295092
+      Magenta_CAMPER_Wreck_000-sheet_7: 9091293739886298247
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

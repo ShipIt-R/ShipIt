@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Red_SUV_Wreckl_006_0: -2085856217936402462
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

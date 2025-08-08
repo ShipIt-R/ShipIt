@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VAN_Burnt_000-sheet_0: -8119608714488338685
+      VAN_Burnt_000-sheet_1: -7058582856590633674
+      VAN_Burnt_000-sheet_2: -82678651567772802
+      VAN_Burnt_000-sheet_3: 7762190324740146322
+      VAN_Burnt_000-sheet_4: -3851547134887679918
+      VAN_Burnt_000-sheet_5: -2811080177001511762
+      VAN_Burnt_000-sheet_6: -990947756861834411
+      VAN_Burnt_000-sheet_7: -1779040521860285451
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

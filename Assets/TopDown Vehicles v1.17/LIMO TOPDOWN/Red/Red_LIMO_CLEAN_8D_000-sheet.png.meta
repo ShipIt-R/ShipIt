@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Red_LIMO_CLEAN_8D_000-sheet_0: 7344807049686132928
+      Red_LIMO_CLEAN_8D_000-sheet_1: 5746618469576659050
+      Red_LIMO_CLEAN_8D_000-sheet_2: -7242230059491139583
+      Red_LIMO_CLEAN_8D_000-sheet_3: -5549481087364975901
+      Red_LIMO_CLEAN_8D_000-sheet_4: -8873482500203290906
+      Red_LIMO_CLEAN_8D_000-sheet_5: 378108391518087632
+      Red_LIMO_CLEAN_8D_000-sheet_6: -3604538706881529287
+      Red_LIMO_CLEAN_8D_000-sheet_7: 2488234646192653370
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

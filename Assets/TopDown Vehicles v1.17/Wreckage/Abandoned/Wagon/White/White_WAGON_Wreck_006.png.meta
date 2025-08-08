@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      White_WAGON_Wreck_006_0: 4946309717601298673
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SUV_Burnt_003_0: 6394016157163524889
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

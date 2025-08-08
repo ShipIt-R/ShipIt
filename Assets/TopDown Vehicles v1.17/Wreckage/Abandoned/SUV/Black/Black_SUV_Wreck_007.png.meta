@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Black_SUV_Wreck_007_0: 6358538360704813962
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

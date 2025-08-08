@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Yellow_JEEP_CLEAN_NORTH_010_0: -742191198559396585
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

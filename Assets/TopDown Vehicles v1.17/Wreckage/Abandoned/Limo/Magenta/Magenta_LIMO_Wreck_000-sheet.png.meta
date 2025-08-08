@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_LIMO_Wreck_000-sheet_0: 8041749482406603773
+      Magenta_LIMO_Wreck_000-sheet_1: -2744583901435811906
+      Magenta_LIMO_Wreck_000-sheet_2: -444253649363048241
+      Magenta_LIMO_Wreck_000-sheet_3: 9030818380913289118
+      Magenta_LIMO_Wreck_000-sheet_4: -3720183416871836582
+      Magenta_LIMO_Wreck_000-sheet_5: 2289347614822772216
+      Magenta_LIMO_Wreck_000-sheet_6: -5548120818487909787
+      Magenta_LIMO_Wreck_000-sheet_7: 8935186323376376211
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

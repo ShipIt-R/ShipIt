@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Brown_HatchBack_Wreck_007_0: 7445794640668960532
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

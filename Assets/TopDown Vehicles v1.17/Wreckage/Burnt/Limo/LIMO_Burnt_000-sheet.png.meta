@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      LIMO_Burnt_000-sheet_0: 9031632970297549176
+      LIMO_Burnt_000-sheet_1: 3557278790483124918
+      LIMO_Burnt_000-sheet_2: -3240121105621746033
+      LIMO_Burnt_000-sheet_3: -498396640786252306
+      LIMO_Burnt_000-sheet_4: -8145518655522937633
+      LIMO_Burnt_000-sheet_5: -6085540198249823570
+      LIMO_Burnt_000-sheet_6: 6907824161482093227
+      LIMO_Burnt_000-sheet_7: 1227310994133876168
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

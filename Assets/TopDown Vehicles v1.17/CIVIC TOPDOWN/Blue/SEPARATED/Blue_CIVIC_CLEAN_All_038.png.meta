@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Blue_CIVIC_CLEAN_All_038_0: -815807865308968716
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      POLICE_Burnt_000-sheet_0: 6722262495205944049
+      POLICE_Burnt_000-sheet_1: 1357257102791281046
+      POLICE_Burnt_000-sheet_2: -8186941499347203476
+      POLICE_Burnt_000-sheet_3: -5825197972262958794
+      POLICE_Burnt_000-sheet_4: 6676208180541417856
+      POLICE_Burnt_000-sheet_5: -5373330083541554246
+      POLICE_Burnt_000-sheet_6: -6318363815185082479
+      POLICE_Burnt_000-sheet_7: -7151816670804358211
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

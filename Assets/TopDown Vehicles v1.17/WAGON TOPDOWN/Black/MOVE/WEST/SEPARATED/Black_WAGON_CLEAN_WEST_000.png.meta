@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Black_WAGON_CLEAN_WEST_000_0: 784477857040018815
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

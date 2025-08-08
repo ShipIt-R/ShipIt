@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Yellow_VAN_Wreck_004_0: 4350323455267861612
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

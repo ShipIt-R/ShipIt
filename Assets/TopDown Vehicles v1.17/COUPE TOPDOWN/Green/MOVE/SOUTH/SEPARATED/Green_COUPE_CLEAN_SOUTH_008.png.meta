@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Green_COUPE_CLEAN_SOUTH_008_0: 3115158295497883701
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

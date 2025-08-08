@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_SPORT_CLEAN_SOUTHEAST_005_0: 6061248485478487140
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

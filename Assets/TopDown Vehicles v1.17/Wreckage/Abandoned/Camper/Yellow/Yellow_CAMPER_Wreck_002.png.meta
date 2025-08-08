@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Yellow_CAMPER_Wreck_002_0: -4071233029876803704
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

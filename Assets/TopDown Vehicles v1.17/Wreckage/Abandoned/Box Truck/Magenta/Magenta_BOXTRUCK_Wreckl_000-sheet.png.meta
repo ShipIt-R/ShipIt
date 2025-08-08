@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_BOXTRUCK_Wreckl_000-sheet_0: 8053235325650482804
+      Magenta_BOXTRUCK_Wreckl_000-sheet_1: -4136145956376379129
+      Magenta_BOXTRUCK_Wreckl_000-sheet_2: -2655785499905127256
+      Magenta_BOXTRUCK_Wreckl_000-sheet_3: -7150282501487291281
+      Magenta_BOXTRUCK_Wreckl_000-sheet_4: 5644013859727581197
+      Magenta_BOXTRUCK_Wreckl_000-sheet_5: 2330533811073886014
+      Magenta_BOXTRUCK_Wreckl_000-sheet_6: -4835777985050418293
+      Magenta_BOXTRUCK_Wreckl_000-sheet_7: 4416638128343689211
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

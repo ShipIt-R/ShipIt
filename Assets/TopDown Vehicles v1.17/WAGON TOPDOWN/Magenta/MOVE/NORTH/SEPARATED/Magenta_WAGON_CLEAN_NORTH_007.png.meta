@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_WAGON_CLEAN_NORTH_007_0: 5770660240255059949
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

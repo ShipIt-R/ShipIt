@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Red_PICKUP_CLEAN_NORTH_011_0: -6883252304613454727
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

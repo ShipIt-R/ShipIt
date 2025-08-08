@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_LUXURY_CLEAN_WEST_004_0: -3838501052812976322
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

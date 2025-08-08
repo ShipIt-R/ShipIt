@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SUV_Burnt_000-sheet_0: 2327860282782584359
+      SUV_Burnt_000-sheet_1: -4151552443147183435
+      SUV_Burnt_000-sheet_2: 5359211402487276469
+      SUV_Burnt_000-sheet_3: 3809292978147726797
+      SUV_Burnt_000-sheet_4: 1977795859252956882
+      SUV_Burnt_000-sheet_5: 5458677097554000197
+      SUV_Burnt_000-sheet_6: 144688857030213550
+      SUV_Burnt_000-sheet_7: -8844911306745872736
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

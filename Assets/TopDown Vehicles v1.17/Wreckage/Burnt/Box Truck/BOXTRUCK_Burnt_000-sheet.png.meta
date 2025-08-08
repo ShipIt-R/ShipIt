@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BOXTRUCK_Burnt_000-sheet_0: -5438757464481389150
+      BOXTRUCK_Burnt_000-sheet_1: -6122460310152451893
+      BOXTRUCK_Burnt_000-sheet_2: -6227779883087496511
+      BOXTRUCK_Burnt_000-sheet_3: 6137479629534633833
+      BOXTRUCK_Burnt_000-sheet_4: -1973659875227641641
+      BOXTRUCK_Burnt_000-sheet_5: -3508737986644411702
+      BOXTRUCK_Burnt_000-sheet_6: 8140336565753501710
+      BOXTRUCK_Burnt_000-sheet_7: -3827626142609275777
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

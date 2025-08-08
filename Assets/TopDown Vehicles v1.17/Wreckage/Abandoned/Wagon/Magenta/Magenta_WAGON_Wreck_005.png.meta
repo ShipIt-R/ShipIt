@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_WAGON_Wreck_005_0: -9056047457413722993
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

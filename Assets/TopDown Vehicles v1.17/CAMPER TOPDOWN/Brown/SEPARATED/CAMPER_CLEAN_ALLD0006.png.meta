@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CAMPER_CLEAN_ALLD0006_0: -696859202487241902
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

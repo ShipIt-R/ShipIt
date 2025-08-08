@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Blue_PICKUP_CLEAN_NORTH_003_0: 539865874278753805
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

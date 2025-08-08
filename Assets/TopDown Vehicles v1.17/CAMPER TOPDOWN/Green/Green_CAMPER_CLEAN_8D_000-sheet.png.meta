@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Green_CAMPER_CLEAN_8D_000-sheet_0: -6474772684266819039
+      Green_CAMPER_CLEAN_8D_000-sheet_1: -998656982064035555
+      Green_CAMPER_CLEAN_8D_000-sheet_2: -2170602345323678715
+      Green_CAMPER_CLEAN_8D_000-sheet_3: 3829513122240394184
+      Green_CAMPER_CLEAN_8D_000-sheet_4: 691414234260927620
+      Green_CAMPER_CLEAN_8D_000-sheet_5: 3756155624163247428
+      Green_CAMPER_CLEAN_8D_000-sheet_6: -3935151090587170075
+      Green_CAMPER_CLEAN_8D_000-sheet_7: -6733845330240319994
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

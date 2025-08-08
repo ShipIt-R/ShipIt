@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Brown_CAMPER_Wreck_004_0: 8038580601607837867
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Green_CIVIC_Wreck_001_0: 5369437603520327715
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

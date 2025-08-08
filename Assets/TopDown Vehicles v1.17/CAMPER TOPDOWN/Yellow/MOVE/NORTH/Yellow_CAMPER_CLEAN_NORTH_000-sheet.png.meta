@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Yellow_CAMPER_CLEAN_NORTH_000-sheet_0: 281239194727142386
+      Yellow_CAMPER_CLEAN_NORTH_000-sheet_1: -6254438795131294961
+      Yellow_CAMPER_CLEAN_NORTH_000-sheet_10: 7715256159142175881
+      Yellow_CAMPER_CLEAN_NORTH_000-sheet_11: -5683138284605882583
+      Yellow_CAMPER_CLEAN_NORTH_000-sheet_2: -633523862337411559
+      Yellow_CAMPER_CLEAN_NORTH_000-sheet_3: -88620314478583964
+      Yellow_CAMPER_CLEAN_NORTH_000-sheet_4: 698926501704637883
+      Yellow_CAMPER_CLEAN_NORTH_000-sheet_5: -2366536200745731526
+      Yellow_CAMPER_CLEAN_NORTH_000-sheet_6: -4077492921513813200
+      Yellow_CAMPER_CLEAN_NORTH_000-sheet_7: -202785032598641700
+      Yellow_CAMPER_CLEAN_NORTH_000-sheet_8: 1282425867082786368
+      Yellow_CAMPER_CLEAN_NORTH_000-sheet_9: 8214434338090464964
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

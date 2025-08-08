@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CAMPER_CLEAN_NORTHWEST_004_0: 5588140242727517464
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

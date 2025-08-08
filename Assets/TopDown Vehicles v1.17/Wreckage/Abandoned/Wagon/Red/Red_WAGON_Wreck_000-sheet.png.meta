@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Red_WAGON_Wreck_000-sheet_0: -9082091999844396960
+      Red_WAGON_Wreck_000-sheet_1: 6866803699774229704
+      Red_WAGON_Wreck_000-sheet_2: 7912546809179098110
+      Red_WAGON_Wreck_000-sheet_3: -5161259771482790441
+      Red_WAGON_Wreck_000-sheet_4: -2207337651254811411
+      Red_WAGON_Wreck_000-sheet_5: -4304539440619419852
+      Red_WAGON_Wreck_000-sheet_6: -7305408226848470050
+      Red_WAGON_Wreck_000-sheet_7: -2777428804997657886
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

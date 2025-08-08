@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Yellow_COUPE_CLEAN_WEST_000-sheet_0: -2787813641401025298
+      Yellow_COUPE_CLEAN_WEST_000-sheet_1: 5812237739082990146
+      Yellow_COUPE_CLEAN_WEST_000-sheet_10: -5323006377563630939
+      Yellow_COUPE_CLEAN_WEST_000-sheet_11: -1208985099821037568
+      Yellow_COUPE_CLEAN_WEST_000-sheet_2: -8233043031173983005
+      Yellow_COUPE_CLEAN_WEST_000-sheet_3: 175952388796906799
+      Yellow_COUPE_CLEAN_WEST_000-sheet_4: -4538848773801309141
+      Yellow_COUPE_CLEAN_WEST_000-sheet_5: -7078120485425145842
+      Yellow_COUPE_CLEAN_WEST_000-sheet_6: -431167092746486035
+      Yellow_COUPE_CLEAN_WEST_000-sheet_7: 2982821565815508679
+      Yellow_COUPE_CLEAN_WEST_000-sheet_8: 308876746004486397
+      Yellow_COUPE_CLEAN_WEST_000-sheet_9: 1788931340706566495
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

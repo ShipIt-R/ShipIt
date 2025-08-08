@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PICKUP_Burnt_005_0: 4474360586579493750
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

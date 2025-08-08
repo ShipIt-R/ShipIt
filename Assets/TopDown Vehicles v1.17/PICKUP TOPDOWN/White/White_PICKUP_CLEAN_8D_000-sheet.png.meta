@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      White_PICKUP_CLEAN_8D_000-sheet_0: 8797229920452580119
+      White_PICKUP_CLEAN_8D_000-sheet_1: -520577947379911518
+      White_PICKUP_CLEAN_8D_000-sheet_2: 2359842245129222021
+      White_PICKUP_CLEAN_8D_000-sheet_3: 4719027254223461651
+      White_PICKUP_CLEAN_8D_000-sheet_4: -8301614720312434285
+      White_PICKUP_CLEAN_8D_000-sheet_5: -242620127767989447
+      White_PICKUP_CLEAN_8D_000-sheet_6: -9164589931188612245
+      White_PICKUP_CLEAN_8D_000-sheet_7: -4150396331729903044
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

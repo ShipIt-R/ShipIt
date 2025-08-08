@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Yellow_PICKUP_CLEAN_EAST_000-sheet_0: -2063942352850994784
+      Yellow_PICKUP_CLEAN_EAST_000-sheet_1: 6461447863747182650
+      Yellow_PICKUP_CLEAN_EAST_000-sheet_10: -7292358475714364537
+      Yellow_PICKUP_CLEAN_EAST_000-sheet_11: 2843448152973008010
+      Yellow_PICKUP_CLEAN_EAST_000-sheet_2: 4884427314204950685
+      Yellow_PICKUP_CLEAN_EAST_000-sheet_3: -5680378220335915896
+      Yellow_PICKUP_CLEAN_EAST_000-sheet_4: -8302679911562701551
+      Yellow_PICKUP_CLEAN_EAST_000-sheet_5: -1055377348812048921
+      Yellow_PICKUP_CLEAN_EAST_000-sheet_6: 1108947207224389441
+      Yellow_PICKUP_CLEAN_EAST_000-sheet_7: -8076664919793795558
+      Yellow_PICKUP_CLEAN_EAST_000-sheet_8: -8128951316607965188
+      Yellow_PICKUP_CLEAN_EAST_000-sheet_9: -3304352193026346691
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

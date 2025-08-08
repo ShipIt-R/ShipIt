@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Green_MUSCLECAR_Wreck_000-sheet_0: -5830196153655990473
+      Green_MUSCLECAR_Wreck_000-sheet_1: 6606845238603574942
+      Green_MUSCLECAR_Wreck_000-sheet_2: 7850431767742858619
+      Green_MUSCLECAR_Wreck_000-sheet_3: 3070718865272408328
+      Green_MUSCLECAR_Wreck_000-sheet_4: 882644001876534054
+      Green_MUSCLECAR_Wreck_000-sheet_5: 4124641063559068270
+      Green_MUSCLECAR_Wreck_000-sheet_6: -5355555541135278484
+      Green_MUSCLECAR_Wreck_000-sheet_7: -7095958016835234445
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CIVIC_Burnt_002_0: 3738587051814526697
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

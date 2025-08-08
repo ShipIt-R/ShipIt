@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Yellow_COUPE_CLEAN_NORTH_007_0: 3159782711284324198
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

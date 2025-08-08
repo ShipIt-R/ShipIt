@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AMBULANCE_CLEAN_EAST_011_0: -5076658415419097097
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

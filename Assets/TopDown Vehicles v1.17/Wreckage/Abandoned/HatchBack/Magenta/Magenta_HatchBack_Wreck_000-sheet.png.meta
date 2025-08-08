@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_HatchBack_Wreck_000-sheet_0: -1046921156519142457
+      Magenta_HatchBack_Wreck_000-sheet_1: 35979267518548501
+      Magenta_HatchBack_Wreck_000-sheet_2: -5777148434837311100
+      Magenta_HatchBack_Wreck_000-sheet_3: 2392248054990080087
+      Magenta_HatchBack_Wreck_000-sheet_4: -2008650397736660418
+      Magenta_HatchBack_Wreck_000-sheet_5: 5681042432772458672
+      Magenta_HatchBack_Wreck_000-sheet_6: -4830851698709350008
+      Magenta_HatchBack_Wreck_000-sheet_7: 1957148260812696748
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

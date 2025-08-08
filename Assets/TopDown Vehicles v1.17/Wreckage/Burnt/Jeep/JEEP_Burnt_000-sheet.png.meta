@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      JEEP_Burnt_000-sheet_0: 3805535376162859131
+      JEEP_Burnt_000-sheet_1: 1078259186772514240
+      JEEP_Burnt_000-sheet_2: 2929472642685456961
+      JEEP_Burnt_000-sheet_3: 1642091109812125530
+      JEEP_Burnt_000-sheet_4: 9081710285331347228
+      JEEP_Burnt_000-sheet_5: 8917296321131248193
+      JEEP_Burnt_000-sheet_6: 6946898872279806133
+      JEEP_Burnt_000-sheet_7: 3229192953131127531
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

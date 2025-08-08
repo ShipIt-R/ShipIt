@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Red_BUS_Wreck_000-sheet_0: 590297246400684632
+      Red_BUS_Wreck_000-sheet_1: 5051397266785204795
+      Red_BUS_Wreck_000-sheet_2: 8500538922427026221
+      Red_BUS_Wreck_000-sheet_3: -5337800791973322624
+      Red_BUS_Wreck_000-sheet_4: -3356248640738977092
+      Red_BUS_Wreck_000-sheet_5: -6705167792271574295
+      Red_BUS_Wreck_000-sheet_6: 2163825170664847871
+      Red_BUS_Wreck_000-sheet_7: -3225084901746873714
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

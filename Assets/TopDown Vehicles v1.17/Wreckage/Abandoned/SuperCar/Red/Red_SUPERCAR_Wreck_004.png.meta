@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Red_SUPERCAR_Wreck_004_0: 4839130909416502052
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      White_HatchBack_Wreck_000_0: -5987067216040558933
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CAMPER_Burnt_004_0: 2883096552810587941
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

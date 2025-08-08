@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Red_LUXURY_CLEAN_8D_000-sheet_0: -5857463134474460523
+      Red_LUXURY_CLEAN_8D_000-sheet_1: 8469773314973260481
+      Red_LUXURY_CLEAN_8D_000-sheet_2: 760072955526847372
+      Red_LUXURY_CLEAN_8D_000-sheet_3: 4714299752281003578
+      Red_LUXURY_CLEAN_8D_000-sheet_4: -5484989936688591889
+      Red_LUXURY_CLEAN_8D_000-sheet_5: 7815672267532976293
+      Red_LUXURY_CLEAN_8D_000-sheet_6: 2967264701786329750
+      Red_LUXURY_CLEAN_8D_000-sheet_7: -5867661606049218630
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

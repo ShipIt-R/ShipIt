@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Red_MEDIUMTRUCK_Wreck_000-sheet_0: -886692581942320140
+      Red_MEDIUMTRUCK_Wreck_000-sheet_1: 944948224180495643
+      Red_MEDIUMTRUCK_Wreck_000-sheet_2: -3767755032275673261
+      Red_MEDIUMTRUCK_Wreck_000-sheet_3: -7741341851867548105
+      Red_MEDIUMTRUCK_Wreck_000-sheet_4: 2502087808297542397
+      Red_MEDIUMTRUCK_Wreck_000-sheet_5: 5256699626729585060
+      Red_MEDIUMTRUCK_Wreck_000-sheet_6: 660853947141055272
+      Red_MEDIUMTRUCK_Wreck_000-sheet_7: 8823679316059306875
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

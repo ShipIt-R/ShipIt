@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Red_MICRO_CLEAN_NORTHWEST_011_0: 4113404755314623450
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

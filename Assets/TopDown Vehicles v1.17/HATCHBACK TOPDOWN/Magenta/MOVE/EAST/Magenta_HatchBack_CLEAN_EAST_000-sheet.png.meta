@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_HatchBack_CLEAN_EAST_000-sheet_0: 1582313596107349400
+      Magenta_HatchBack_CLEAN_EAST_000-sheet_1: 4630897964543713736
+      Magenta_HatchBack_CLEAN_EAST_000-sheet_10: -107839796000513773
+      Magenta_HatchBack_CLEAN_EAST_000-sheet_11: -4069012020430685870
+      Magenta_HatchBack_CLEAN_EAST_000-sheet_2: -4366215293516176918
+      Magenta_HatchBack_CLEAN_EAST_000-sheet_3: -2850667717279457081
+      Magenta_HatchBack_CLEAN_EAST_000-sheet_4: 1403991288294033034
+      Magenta_HatchBack_CLEAN_EAST_000-sheet_5: -8819832375508626657
+      Magenta_HatchBack_CLEAN_EAST_000-sheet_6: -5053765855706300435
+      Magenta_HatchBack_CLEAN_EAST_000-sheet_7: -7657918968655585127
+      Magenta_HatchBack_CLEAN_EAST_000-sheet_8: -3689597718268338298
+      Magenta_HatchBack_CLEAN_EAST_000-sheet_9: -6102726868456144203
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Blue_MUSCLECAR_CLEAN_8D_000-sheet_0: -6511411499506753629
+      Blue_MUSCLECAR_CLEAN_8D_000-sheet_1: -2417455734822216917
+      Blue_MUSCLECAR_CLEAN_8D_000-sheet_2: 1277427200121732
+      Blue_MUSCLECAR_CLEAN_8D_000-sheet_3: -3165597385691506921
+      Blue_MUSCLECAR_CLEAN_8D_000-sheet_4: -1908347097215040905
+      Blue_MUSCLECAR_CLEAN_8D_000-sheet_5: 5853157453901479993
+      Blue_MUSCLECAR_CLEAN_8D_000-sheet_6: -1329599169518919937
+      Blue_MUSCLECAR_CLEAN_8D_000-sheet_7: 5579090283522203699
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

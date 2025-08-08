@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CAMPER_Burnt_000-sheet_0: 4210360268748700634
+      CAMPER_Burnt_000-sheet_1: 4214813634304727452
+      CAMPER_Burnt_000-sheet_2: -4881747681371422461
+      CAMPER_Burnt_000-sheet_3: 131607524911588571
+      CAMPER_Burnt_000-sheet_4: 1049759781909265000
+      CAMPER_Burnt_000-sheet_5: 1256744283959070566
+      CAMPER_Burnt_000-sheet_6: 8656494901370157216
+      CAMPER_Burnt_000-sheet_7: 5619794607052652505
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

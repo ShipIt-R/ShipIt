@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Red_COUPE_CLEAN_WEST_009_0: -8313075204183429815
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

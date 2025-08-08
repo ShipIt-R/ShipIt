@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      White_LIMO_Wreck_000-sheet_0: -671944736448227565
+      White_LIMO_Wreck_000-sheet_1: 2289182669620458876
+      White_LIMO_Wreck_000-sheet_2: -8567515574277306988
+      White_LIMO_Wreck_000-sheet_3: 2440903139253935709
+      White_LIMO_Wreck_000-sheet_4: 4903974834977147458
+      White_LIMO_Wreck_000-sheet_5: 6457446512997215189
+      White_LIMO_Wreck_000-sheet_6: 6880634604709092008
+      White_LIMO_Wreck_000-sheet_7: -7730868215329372405
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

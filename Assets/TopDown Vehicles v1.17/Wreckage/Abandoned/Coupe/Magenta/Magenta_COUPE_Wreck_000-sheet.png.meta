@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_COUPE_Wreck_000-sheet_0: -1416422787079174690
+      Magenta_COUPE_Wreck_000-sheet_1: -4289327331951123174
+      Magenta_COUPE_Wreck_000-sheet_2: -7699088231509619617
+      Magenta_COUPE_Wreck_000-sheet_3: -8583589837652375249
+      Magenta_COUPE_Wreck_000-sheet_4: 1948220325220771438
+      Magenta_COUPE_Wreck_000-sheet_5: 2523406137747498946
+      Magenta_COUPE_Wreck_000-sheet_6: -7952157135064485408
+      Magenta_COUPE_Wreck_000-sheet_7: -3876275401476842269
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

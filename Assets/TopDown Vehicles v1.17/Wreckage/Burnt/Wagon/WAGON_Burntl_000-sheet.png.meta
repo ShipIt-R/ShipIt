@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WAGON_Burntl_000-sheet_0: 1149241824611627574
+      WAGON_Burntl_000-sheet_1: -3444180232073081875
+      WAGON_Burntl_000-sheet_2: -8192270929584300302
+      WAGON_Burntl_000-sheet_3: 933808966322937786
+      WAGON_Burntl_000-sheet_4: 2845582601123978952
+      WAGON_Burntl_000-sheet_5: 6424633832517984501
+      WAGON_Burntl_000-sheet_6: 2844542280561725618
+      WAGON_Burntl_000-sheet_7: 6469523854997956591
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

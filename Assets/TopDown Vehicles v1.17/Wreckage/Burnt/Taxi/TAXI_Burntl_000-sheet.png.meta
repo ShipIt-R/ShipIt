@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TAXI_Burntl_000-sheet_0: -3943847456512515247
+      TAXI_Burntl_000-sheet_1: 8014590155132659536
+      TAXI_Burntl_000-sheet_2: 8233788778928471640
+      TAXI_Burntl_000-sheet_3: -873051212131149773
+      TAXI_Burntl_000-sheet_4: -2296728080498995374
+      TAXI_Burntl_000-sheet_5: -6653575146791277383
+      TAXI_Burntl_000-sheet_6: 4972083469031749141
+      TAXI_Burntl_000-sheet_7: 3932279874139001420
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

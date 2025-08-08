@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Black_SPORT_CLEAN_SOUTHEAST_005_0: -3808700458986375142
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      White_WAGON_CLEAN_All_042_0: -2266124506864150898
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

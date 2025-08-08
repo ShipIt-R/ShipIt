@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Yellow_PICKUP_Wreck_004_0: -1919930094740652758
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      EDAN_Burnt_000-sheet_0: 6229402109007590308
+      EDAN_Burnt_000-sheet_1: -2544235190807846015
+      EDAN_Burnt_000-sheet_2: -5226146945998589663
+      EDAN_Burnt_000-sheet_3: 957245320782255302
+      EDAN_Burnt_000-sheet_4: -1908430345258154815
+      EDAN_Burnt_000-sheet_5: 4285133076679563837
+      EDAN_Burnt_000-sheet_6: 6999220737813049977
+      EDAN_Burnt_000-sheet_7: -1458078733128273925
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

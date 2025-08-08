@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Green_SUV_Wreck_000-sheet_0: -6673792329329909716
+      Green_SUV_Wreck_000-sheet_1: -2377372290678271524
+      Green_SUV_Wreck_000-sheet_2: 6270130022874037876
+      Green_SUV_Wreck_000-sheet_3: 7650742585475700973
+      Green_SUV_Wreck_000-sheet_4: -7757918628249925432
+      Green_SUV_Wreck_000-sheet_5: -6363404012724849864
+      Green_SUV_Wreck_000-sheet_6: -5232592741762911518
+      Green_SUV_Wreck_000-sheet_7: 8222558397230225222
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

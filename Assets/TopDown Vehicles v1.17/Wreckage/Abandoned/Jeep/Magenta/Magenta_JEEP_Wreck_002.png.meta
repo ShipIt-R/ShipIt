@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_JEEP_Wreck_002_0: 8149473069414629272
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

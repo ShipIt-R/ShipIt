@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Blue_MEDIUMTRUCK_Wreck_005_0: -8203039718341099859
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

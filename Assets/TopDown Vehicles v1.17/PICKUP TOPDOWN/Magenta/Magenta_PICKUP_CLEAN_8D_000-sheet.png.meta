@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_PICKUP_CLEAN_8D_000-sheet_0: 3372401551209837286
+      Magenta_PICKUP_CLEAN_8D_000-sheet_1: -7487393084304540115
+      Magenta_PICKUP_CLEAN_8D_000-sheet_2: -1635987724344294252
+      Magenta_PICKUP_CLEAN_8D_000-sheet_3: 8955474279996568744
+      Magenta_PICKUP_CLEAN_8D_000-sheet_4: -2313470477772636970
+      Magenta_PICKUP_CLEAN_8D_000-sheet_5: 7583395114894897993
+      Magenta_PICKUP_CLEAN_8D_000-sheet_6: -7028998946380132658
+      Magenta_PICKUP_CLEAN_8D_000-sheet_7: -4878081252136757813
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

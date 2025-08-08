@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Blue_MUSCLECAR_CLEAN_EAST_009_0: -8187137647407430545
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

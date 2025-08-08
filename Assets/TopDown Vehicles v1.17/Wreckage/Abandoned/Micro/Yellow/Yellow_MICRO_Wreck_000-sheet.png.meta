@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Yellow_MICRO_Wreck_000-sheet_0: -8166709998186252699
+      Yellow_MICRO_Wreck_000-sheet_1: 1268928895355606744
+      Yellow_MICRO_Wreck_000-sheet_2: 9070735746334074414
+      Yellow_MICRO_Wreck_000-sheet_3: 6700588126239215981
+      Yellow_MICRO_Wreck_000-sheet_4: -4022030037553626127
+      Yellow_MICRO_Wreck_000-sheet_5: -3835443502572431918
+      Yellow_MICRO_Wreck_000-sheet_6: 5008366817387773265
+      Yellow_MICRO_Wreck_000-sheet_7: 588525899607240138
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Green_SEDAN_CLEAN_NORTHWEST_004_0: 4474377583572407292
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

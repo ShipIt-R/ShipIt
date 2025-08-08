@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_CIVIC_CLEAN_WEST_005_0: -4824595555001790096
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

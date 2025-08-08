@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_CIVIC_CLEAN_SOUTH_000-sheet_0: -3968220546929970381
+      Magenta_CIVIC_CLEAN_SOUTH_000-sheet_1: 8379067163092514161
+      Magenta_CIVIC_CLEAN_SOUTH_000-sheet_10: -4159062620993880917
+      Magenta_CIVIC_CLEAN_SOUTH_000-sheet_11: 7907278458949673473
+      Magenta_CIVIC_CLEAN_SOUTH_000-sheet_2: 7474158634574484734
+      Magenta_CIVIC_CLEAN_SOUTH_000-sheet_3: 5191619655796878681
+      Magenta_CIVIC_CLEAN_SOUTH_000-sheet_4: 3335642477055931944
+      Magenta_CIVIC_CLEAN_SOUTH_000-sheet_5: 7020899586930124849
+      Magenta_CIVIC_CLEAN_SOUTH_000-sheet_6: 8527813121372523888
+      Magenta_CIVIC_CLEAN_SOUTH_000-sheet_7: 6362298497246288812
+      Magenta_CIVIC_CLEAN_SOUTH_000-sheet_8: -1428924302295436368
+      Magenta_CIVIC_CLEAN_SOUTH_000-sheet_9: 4254981173444196887
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

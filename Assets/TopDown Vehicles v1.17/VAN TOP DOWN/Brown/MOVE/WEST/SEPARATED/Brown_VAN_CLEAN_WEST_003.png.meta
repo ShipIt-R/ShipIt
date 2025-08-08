@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Brown_VAN_CLEAN_WEST_003_0: -5961678123924203810
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Green_SUV_CLEAN_NORTHEAST_006_0: -6513361628755027862
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

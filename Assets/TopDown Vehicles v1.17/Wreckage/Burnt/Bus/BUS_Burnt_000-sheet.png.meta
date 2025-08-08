@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BUS_Burnt_000-sheet_0: -4421020283153340897
+      BUS_Burnt_000-sheet_1: -2632807587857861023
+      BUS_Burnt_000-sheet_2: 9042350979422144500
+      BUS_Burnt_000-sheet_3: -4927852146264754087
+      BUS_Burnt_000-sheet_4: -3902173542125511049
+      BUS_Burnt_000-sheet_5: -2694168134766758859
+      BUS_Burnt_000-sheet_6: -1330452543698113236
+      BUS_Burnt_000-sheet_7: 5575987495403086628
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Red_SUV_CLEAN_All_014_0: 5855594276504867224
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

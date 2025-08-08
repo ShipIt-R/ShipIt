@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Blue_BOXTRUCK_Wreck_000-sheet_0: 2510170953547173279
+      Blue_BOXTRUCK_Wreck_000-sheet_1: -1059808769880131103
+      Blue_BOXTRUCK_Wreck_000-sheet_2: -8213141171011433984
+      Blue_BOXTRUCK_Wreck_000-sheet_3: 832980452888036184
+      Blue_BOXTRUCK_Wreck_000-sheet_4: 1099099995666344258
+      Blue_BOXTRUCK_Wreck_000-sheet_5: -4596313032113652783
+      Blue_BOXTRUCK_Wreck_000-sheet_6: 7219835497747501529
+      Blue_BOXTRUCK_Wreck_000-sheet_7: 3497681022838801623
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Blue_LIMO_CLEAN_SOUTHEAST_001_0: -5725330138474387265
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

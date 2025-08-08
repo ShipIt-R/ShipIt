@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_LUXURY_CLEAN_WEST_000-sheet_0: -8438439306438815522
+      Magenta_LUXURY_CLEAN_WEST_000-sheet_1: 7448390138943064707
+      Magenta_LUXURY_CLEAN_WEST_000-sheet_10: -1620876102125882981
+      Magenta_LUXURY_CLEAN_WEST_000-sheet_11: 1264574050188870646
+      Magenta_LUXURY_CLEAN_WEST_000-sheet_2: 1748928957414272788
+      Magenta_LUXURY_CLEAN_WEST_000-sheet_3: -7303903365286500298
+      Magenta_LUXURY_CLEAN_WEST_000-sheet_4: -2929449512189727265
+      Magenta_LUXURY_CLEAN_WEST_000-sheet_5: -567484531717466627
+      Magenta_LUXURY_CLEAN_WEST_000-sheet_6: 1906262499817882137
+      Magenta_LUXURY_CLEAN_WEST_000-sheet_7: 6391252259461015264
+      Magenta_LUXURY_CLEAN_WEST_000-sheet_8: 7048410948008339649
+      Magenta_LUXURY_CLEAN_WEST_000-sheet_9: 897527136781026201
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

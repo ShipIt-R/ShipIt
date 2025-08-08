@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_CIVIC_Wreck_000-sheet_0: -5602667121648706896
+      Magenta_CIVIC_Wreck_000-sheet_1: -7108649533451739037
+      Magenta_CIVIC_Wreck_000-sheet_2: 5710042693798983988
+      Magenta_CIVIC_Wreck_000-sheet_3: -292328701593504625
+      Magenta_CIVIC_Wreck_000-sheet_4: -3228071892974962134
+      Magenta_CIVIC_Wreck_000-sheet_5: -687142778033912398
+      Magenta_CIVIC_Wreck_000-sheet_6: 1704885148796009055
+      Magenta_CIVIC_Wreck_000-sheet_7: -5724117230198319261
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

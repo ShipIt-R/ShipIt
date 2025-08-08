@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_SPORT_CLEAN_8D_000-sheet_0: -8293900212166686745
+      Magenta_SPORT_CLEAN_8D_000-sheet_1: -8985639098572136179
+      Magenta_SPORT_CLEAN_8D_000-sheet_2: -1249558585023812814
+      Magenta_SPORT_CLEAN_8D_000-sheet_3: 1104287490602389887
+      Magenta_SPORT_CLEAN_8D_000-sheet_4: 8208487839353672171
+      Magenta_SPORT_CLEAN_8D_000-sheet_5: 2741435173020984800
+      Magenta_SPORT_CLEAN_8D_000-sheet_6: 8092585858930167658
+      Magenta_SPORT_CLEAN_8D_000-sheet_7: 8978836685843884736
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

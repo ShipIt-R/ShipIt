@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      White_SUV_Wreck_000-sheet_0: 8041170147809872565
+      White_SUV_Wreck_000-sheet_1: 3721452799182438142
+      White_SUV_Wreck_000-sheet_2: -4621139924264938183
+      White_SUV_Wreck_000-sheet_3: -3489462829899065815
+      White_SUV_Wreck_000-sheet_4: 8329554414562565402
+      White_SUV_Wreck_000-sheet_5: 3815713044452181595
+      White_SUV_Wreck_000-sheet_6: -7661573880871979216
+      White_SUV_Wreck_000-sheet_7: -7497527585883871873
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Brown_BOXTRUCK_CLEAN_WEST_009_0: -3239126803220664189
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

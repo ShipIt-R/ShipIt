@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magenta_MINIVAN_Wreck_004_0: -3167177205912618553
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      POLICE_Wreck_000-sheet_0: 1287239296341349996
+      POLICE_Wreck_000-sheet_1: -8973676273610340918
+      POLICE_Wreck_000-sheet_2: 5599279628669679076
+      POLICE_Wreck_000-sheet_3: -6145915549471814814
+      POLICE_Wreck_000-sheet_4: -6440185781809357757
+      POLICE_Wreck_000-sheet_5: -5628263614511293935
+      POLICE_Wreck_000-sheet_6: -3072733665164726191
+      POLICE_Wreck_000-sheet_7: -8930849058708390887
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
